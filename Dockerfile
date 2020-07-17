@@ -11,6 +11,14 @@ ADD . $DIST_PATH
 WORKDIR $DIST_PATH/data
 
 RUN \
-    dnf install -y nginx-mainline
+    dnf install -y nginx-mainline \
+    \
+    # install deps
+    && pushd .. \
+    && npm i --unsafe --only=prod
+    && popd \
+    \
+    # clean npm cache
+    && rm -rf ~/.npm
 
 ENTRYPOINT [ "/bin/bash", "-l", "-c", "node ../bin/main.js \"$@\"", "bash" ]
