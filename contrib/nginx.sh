@@ -23,6 +23,7 @@ export KILL_TIMEOUT=10
 
 export DOCKER_CONTAINER_ARGS=" \
     --net=host \
+    -v /var/run/nginx:/var/run/nginx \
     --shm-size=1g \
 "
 
