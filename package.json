@@ -2,14 +2,13 @@
     "name": "nginx",
     "version": "0.0.0",
     "private": true,
-    "type": "commonjs",
     "scripts": {
         "lint": "softvisio-cli lint"
     },
     "lint": [
         "*.*",
-        "bin",
-        "contrib",
-        "lib"
+        "bin/**",
+        "contrib/**",
+        "lib/**"
     ]
 }
