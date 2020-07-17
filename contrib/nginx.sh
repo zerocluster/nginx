@@ -22,8 +22,7 @@ export RESTART=always
 export KILL_TIMEOUT=10
 
 export DOCKER_CONTAINER_ARGS=" \
-    -v /var/run/nginx:/var/run/nginx \
-    -p 80:80/tcp \
+    --net=host \
     --shm-size=1g \
 "
 
