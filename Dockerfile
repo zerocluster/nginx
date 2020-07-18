@@ -4,7 +4,7 @@ LABEL maintainer="zdm <zdm@softvisio.net>"
 
 USER root
 
-ENV DIST_PATH="$WORKSPACE/nginx"
+ENV DIST_PATH="$WORKSPACE/dist"
 
 ADD . $DIST_PATH
 
