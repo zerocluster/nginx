@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# curl -fsSLO https://bitbucket.org/softvisio/nginx/raw/master/contrib/nginx.sh && chmod +x nginx.sh
+# curl -fsSLO https://bitbucket.org/softvisio/nginx/raw/master/contrib/nginx && chmod +x nginx
 
 set -e
 
