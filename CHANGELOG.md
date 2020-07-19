@@ -1,3 +1,10 @@
+## 0.4.0 (2020-07-19)
+
+-   proxy cache fixed
+-   nginx config updated
+-   docker always restart unless stopped
+-   gzip types fixed
+
 ## 0.3.0 (2020-07-18)
 
 -   nginx confing updated
