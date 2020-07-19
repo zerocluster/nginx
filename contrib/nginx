@@ -12,15 +12,11 @@ export DOCKER_NAMESPACE=softvisio
 export SERVICE=1
 export CONTAINER_NAME=
 
-# Docker container restart policy, https://docs.docker.com/config/containers/start-containers-automatically/
-# - no             - do not automatically restart the container. (the default);
-# - on-failure     - restart the container if it exits due to an error, which manifests as a non-zero exit code;
-# - unless-stopped - restart the container unless it is explicitly stopped or Docker itself is stopped or restarted;
-# - always         - always restart the container if it stops;
-export RESTART=always
+# docker container restart policy, https://docs.docker.com/config/containers/start-containers-automatically/
+export RESTART=unless-stopped
 
-# Seconds to wait for stop before killing container, https://docs.docker.com/engine/reference/commandline/stop/#options
-export KILL_TIMEOUT=10
+# seconds to wait for stop before killing container, https://docs.docker.com/engine/reference/commandline/stop/#options
+export KILL_TIMEOUT=600
 
 export DOCKER_CONTAINER_ARGS=" \
     --net=host \
