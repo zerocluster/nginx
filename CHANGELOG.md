@@ -1,3 +1,7 @@
+## 0.4.1 (2020-07-21)
+
+-   hide uWebSockets header
+
 ## 0.4.0 (2020-07-19)
 
 -   proxy cache fixed
