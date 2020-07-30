@@ -9,4 +9,4 @@ RUN \
     && popd \
     \
     # clean npm cache
-    && rm -rf ~/.npm
+    && rm -rf ~/.npm-cache
