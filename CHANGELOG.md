@@ -1,3 +1,7 @@
+## 0.4.2 (2020-07-30)
+
+-   docker remove npm cache
+
 ## 0.4.1 (2020-07-21)
 
 -   hide uWebSockets header
