@@ -1,3 +1,7 @@
+## 0.4.3 (2020-07-31)
+
+-   create cache dir on startup
+
 ## 0.4.2 (2020-07-30)
 
 -   docker remove npm cache
