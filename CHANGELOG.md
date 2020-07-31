@@ -1,3 +1,7 @@
+## 0.4.4 (2020-07-31)
+
+-   vhost renamed to vhosts
+
 ## 0.4.3 (2020-07-31)
 
 -   create cache dir on startup
