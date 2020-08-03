@@ -1,3 +1,7 @@
+## 0.4.5 (2020-08-03)
+
+-   shrinkwrap added
+
 ## 0.4.4 (2020-07-31)
 
 -   vhost renamed to vhosts
