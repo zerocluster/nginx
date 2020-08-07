@@ -1,3 +1,8 @@
+## 0.4.7 (2020-08-07)
+
+-   shrinkwrap replaced with package-lock
+-   .eslintrc.yaml removed
+
 ## 0.4.6 (2020-08-03)
 
 -   npm-shrinkwrap.json version updated
