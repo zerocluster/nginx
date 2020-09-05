@@ -1,3 +1,7 @@
+## 0.4.8 (2020-09-05)
+
+-   deps updated
+
 ## 0.4.7 (2020-08-07)
 
 -   shrinkwrap replaced with package-lock
