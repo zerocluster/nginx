@@ -1,2 +1,4 @@
-name: nginx
-namespace: softvisio
+registry: softvisio/nginx
+
+mirrors:
+  - registry.myworkforce.com/library/nginx
