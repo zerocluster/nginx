@@ -1,3 +1,7 @@
+## 0.4.9 (2020-09-18)
+
+-   docker mirrors added
+
 ## 0.4.8 (2020-09-05)
 
 -   deps updated
