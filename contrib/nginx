@@ -21,6 +21,7 @@ export KILL_TIMEOUT=600
 export DOCKER_CONTAINER_ARGS=" \
     --net=host \
     -v /var/run/nginx:/var/run/nginx \
+    --init \
     --shm-size=1g \
 "
 
