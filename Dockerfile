@@ -1,4 +1,4 @@
-FROM softvisio/core:master
+FROM softvisio/core
 
 RUN \
     dnf install -y nginx-mainline \
