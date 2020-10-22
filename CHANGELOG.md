@@ -1,3 +1,7 @@
+## 0.6.0 (2020-10-22)
+
+-   docker tags updated
+
 ## 0.5.0 (2020-10-01)
 
 -   docker --init
