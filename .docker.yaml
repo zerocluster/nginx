@@ -1,4 +1,3 @@
-registry: softvisio/nginx
-
-mirrors:
+registry:
+  - softvisio/nginx
   - registry.myworkforce.com/nginx/nginx
