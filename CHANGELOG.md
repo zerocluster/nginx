@@ -1,3 +1,7 @@
+## 0.6.1 (2020-11-16)
+
+-   docker mirrors updated
+
 ## 0.6.0 (2020-10-22)
 
 -   docker tags updated
