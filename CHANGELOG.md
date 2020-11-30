@@ -1,3 +1,7 @@
+## 0.7.0 (2020-11-30)
+
+-   default vhost renamed
+
 ## 0.6.1 (2020-11-16)
 
 -   docker mirrors updated
