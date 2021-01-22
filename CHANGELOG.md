@@ -1,3 +1,7 @@
+## 0.7.1 (2021-01-22)
+
+-   do not override default vhost config
+
 ## 0.7.0 (2020-11-30)
 
 -   default vhost renamed
