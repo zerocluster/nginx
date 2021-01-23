@@ -1,3 +1,9 @@
+## 0.8.0 (2021-01-23)
+
+-   log messages updated
+-   nginx config updated
+-   nginx location set to /var/lib
+
 ## 0.7.1 (2021-01-22)
 
 -   do not override default vhost config
