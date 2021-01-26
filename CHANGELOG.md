@@ -1,3 +1,7 @@
+## 0.9.0 (2021-01-26)
+
+-   migrated to node v15
+
 ## 0.8.0 (2021-01-23)
 
 -   log messages updated
