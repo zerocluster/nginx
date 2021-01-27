@@ -1,3 +1,7 @@
+## 0.9.1 (2021-01-27)
+
+-   deps updated
+
 ## 0.9.0 (2021-01-26)
 
 -   migrated to node v15
