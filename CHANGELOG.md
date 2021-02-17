@@ -1,3 +1,9 @@
+## 1.0.2 (2021-02-17)
+
+### Raw commits log
+
+-   package-lock removed;
+
 ## 1.0.1 (2021-02-11)
 
 ### Raw commits log
