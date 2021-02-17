@@ -1,3 +1,5 @@
 registry:
   - softvisio/nginx
   - registry.myworkforce.com/nginx/nginx
+
+default_tag: latest
