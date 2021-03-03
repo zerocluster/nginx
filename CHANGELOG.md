@@ -1,3 +1,9 @@
+## 1.1.1 (2021-03-03)
+
+### Raw commits log
+
+-   template path fixed;
+
 ## 1.1.0 (2021-03-03)
 
 ### Raw commits log
