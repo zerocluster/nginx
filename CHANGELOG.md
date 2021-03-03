@@ -1,3 +1,12 @@
+## 1.1.0 (2021-03-03)
+
+### Raw commits log
+
+-   package published;
+-   load balancer config template added;
+-   package renamed;
+-   vhosts methods added;
+
 ## 1.0.2 (2021-02-17)
 
 ### Raw commits log
