@@ -1,6 +1,26 @@
 {
     "name": "@softvisio/nginx",
     "version": "1.0.2",
+    "description": "Nginx wrapper",
+    "keywords": [
+        "softvisio",
+        "nginx"
+    ],
+    "homepage": "https://bitbucket.org/softvisio/nginx",
+    "bugs": {
+        "url": "https://bitbucket.org/softvisio/nginx/issues",
+        "email": "zdm@softvisio.net"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://bitbucket.org/softvisio/nginx.git"
+    },
+    "license": "ISC",
+    "author": "zdm <zdm@softvisio.net>",
+    "exports": {
+        ".": "./lib/index.js",
+        "./*": "./lib/*.js"
+    },
     "scripts": {
         "lint": "softvisio-cli lint"
     },
