@@ -8,16 +8,17 @@ services:
   test:
     image: softvisio/swarm
     init: true
+    shm_size: 1g
 
     build:
-      x-images: softvisio/swarm
+      x-images: ["registry.myworkforce.com/nginx/nginx"]
       x-default-tag: latest
       x-tags-mapping:
-        main: latest
+        # main: latest
       x-auto-tags:
-        - main
-        - devel
-        - latest
+        # - main
+        # - devel
+        # - latest
 
     ports:
       - published: 80
