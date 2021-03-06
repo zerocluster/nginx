@@ -25,6 +25,7 @@
         "lint": "softvisio-cli lint"
     },
     "dependencies": {
+        "dockerode": "^3.2.1",
         "ejs": "^3.1.5"
     },
     "lint": [

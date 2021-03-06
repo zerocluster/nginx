@@ -1,0 +1,44 @@
+version: "3.9"
+
+networks:
+  private:
+    external: true
+
+services:
+  test:
+    image: softvisio/swarm
+    init: true
+
+    build:
+      x-images: softvisio/swarm
+      x-default-tag: latest
+      x-tags-mapping:
+        main: latest
+      x-auto-tags:
+        - main
+        - devel
+        - latest
+
+    ports:
+      - published: 80
+        target: 80
+
+    environment:
+      LOADBALANCER_NETWORK: private
+
+    networks:
+      - private
+
+    stop_grace_period: 1m30s
+
+    deploy:
+      replicas: 1
+
+      restart_policy:
+        condition: on-failure
+
+    placement:
+      max_replicas_per_node: 1
+      constraints:
+        - "node.role == manager"
+        - "node.labels.loadbalancer"
