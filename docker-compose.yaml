@@ -1,36 +1,31 @@
 version: "3.9"
 
+x-build_default_tag: latest
+x-build_tags_mapping: { main: latest }
+x-build_auto_tags: [main, devel, latest]
+
 networks:
-  private:
-    external: true
+  private: { external: true }
 
 services:
   test:
-    image: softvisio/swarm
+    image: softvisio/nginx
     init: true
     shm_size: 1g
 
     build:
       x-images: ["registry.myworkforce.com/nginx/nginx"]
-      x-default-tag: latest
-      x-tags-mapping:
-        # main: latest
-      x-auto-tags:
-        # - main
-        # - devel
-        # - latest
 
     ports:
-      - published: 80
-        target: 80
+      - { published: 80, target: 80 }
+      - { published: 443, target: 443 }
 
     environment:
       LOADBALANCER_NETWORK: private
 
-    networks:
-      - private
+    networks: [private]
 
-    stop_grace_period: 1m30s
+    stop_grace_period: 5m
 
     deploy:
       replicas: 1
