@@ -24,7 +24,7 @@ services:
       - { published: 443, target: 443 }
 
     environment:
-      LOADBALANCER_NETWORK: private
+      SERVER_NAME_LABEL: nginx_server_name
 
     networks: [private]
 
