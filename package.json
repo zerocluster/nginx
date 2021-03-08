@@ -1,6 +1,7 @@
 {
     "name": "@softvisio/nginx",
     "version": "2.0.1",
+    "private": true,
     "description": "Nginx wrapper",
     "keywords": [
         "softvisio",
