@@ -2,6 +2,8 @@ version: "3.9"
 
 # NOTE deploy
 # docker stack deploy --compose-file docker-compose.yaml nginx
+# docker node update --label-add nginx=true <NODE-NAME>
+# docker service update --label-add nginx-server-name=www.example.com <SERVICE-NAME>
 
 x-build:
   default_tag: latest
