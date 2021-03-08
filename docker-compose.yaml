@@ -1,5 +1,8 @@
 version: "3.9"
 
+# NOTE deploy
+# docker stack deploy --compose-file docker-compose.yaml nginx
+
 x-build:
   default_tag: latest
   # auto_tags: [main, devel, latest]
