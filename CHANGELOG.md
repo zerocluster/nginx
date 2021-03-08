@@ -1,3 +1,10 @@
+## 2.0.4 (2021-03-08)
+
+### Raw commits log
+
+-   volume name fixed;
+-   deploy instructions added;
+
 ## 2.0.3 (2021-03-08)
 
 ### Raw commits log
