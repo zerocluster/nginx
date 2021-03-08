@@ -1,3 +1,9 @@
+## 2.0.2 (2021-03-08)
+
+### Raw commits log
+
+-   make package private;
+
 ## 2.0.1 (2021-03-08)
 
 ### Raw commits log
