@@ -1,3 +1,9 @@
+## 2.0.1 (2021-03-08)
+
+### Raw commits log
+
+-   build tasg updated;
+
 ## 2.0.0 (2021-03-08)
 
 ### Raw commits log
