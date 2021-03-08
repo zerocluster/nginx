@@ -1,3 +1,10 @@
+## 2.0.3 (2021-03-08)
+
+### Raw commits log
+
+-   deploy instructions added;
+-   build tags updated;
+
 ## 2.0.2 (2021-03-08)
 
 ### Raw commits log
