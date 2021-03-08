@@ -15,7 +15,7 @@ networks:
 
 volumes:
   maxmind: { external: true }
-  nginx:
+  nginx: { name: "nginx" }
 
 services:
   nginx:
