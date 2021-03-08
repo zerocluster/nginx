@@ -24,8 +24,6 @@ services:
         constraints:
           - "node.role == manager"
           - "node.labels.nginx == true"
-      restart_policy:
-        condition: on-failure
 
     environment:
       SERVER_NAME_LABEL: nginx-server-name
