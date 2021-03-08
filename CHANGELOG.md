@@ -1,3 +1,9 @@
+## 2.0.5 (2021-03-08)
+
+### Raw commits log
+
+-   docker-compose.yaml shebang added;
+
 ## 2.0.4 (2021-03-08)
 
 ### Raw commits log
