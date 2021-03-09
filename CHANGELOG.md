@@ -1,3 +1,9 @@
+## 2.0.7 (2021-03-09)
+
+### Raw commits log
+
+-   cache remove fixed;
+
 ## 2.0.6 (2021-03-09)
 
 ### Raw commits log
