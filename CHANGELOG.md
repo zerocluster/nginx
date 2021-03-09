@@ -1,3 +1,10 @@
+## 2.0.6 (2021-03-09)
+
+### Raw commits log
+
+-   remove cache for destroyed services;
+-   upstream settings updated;
+
 ## 2.0.5 (2021-03-08)
 
 ### Raw commits log
