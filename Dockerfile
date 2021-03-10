@@ -1,5 +1,7 @@
 FROM softvisio/core
 
+HEALTHCHECK NONE
+
 RUN \
     dnf install -y nginx-mainline \
     \
