@@ -1,9 +1,9 @@
-#!/usr/bin/env -S docker stack deploy nginx -c
+#!/usr/bin/env -S docker stack deploy --with-registry-auth nginx -c
 
 version: "3.9"
 
 # NOTE deploy
-# docker stack deploy -c docker-stack.yaml nginx
+# docker stack deploy --with-registry-auth -c docker-stack.yaml nginx
 # docker node update --label-add nginx=true <NODE-NAME>
 # docker service update --label-add nginx-server-name=www.example.com <SERVICE-NAME>
 
