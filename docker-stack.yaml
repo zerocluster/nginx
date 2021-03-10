@@ -21,7 +21,7 @@ volumes:
 
 services:
   nginx:
-    image: softvisio/nginx
+    image: softvisio/nginx:main
     hostname: nginx
 
     deploy:
