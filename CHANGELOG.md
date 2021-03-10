@@ -1,3 +1,11 @@
+## 2.1.0 (2021-03-10)
+
+### Raw commits log
+
+-   dynamic upstreams support removed;
+-   disable healthcheck;
+-   docker stack updated;
+
 ## 2.0.8 (2021-03-10)
 
 ### Raw commits log
