@@ -1,3 +1,9 @@
+## 2.2.1 (2021-03-11)
+
+### Raw commits log
+
+-   labels compare fix;
+
 ## 2.2.0 (2021-03-11)
 
 ### Raw commits log
