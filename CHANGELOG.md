@@ -1,3 +1,9 @@
+## 2.2.0 (2021-03-11)
+
+### Raw commits log
+
+-   dynamic peers;
+
 ## 2.1.0 (2021-03-10)
 
 ### Raw commits log
