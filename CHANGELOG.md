@@ -1,3 +1,10 @@
+## 2.3.0 (2021-03-13)
+
+### Raw commits log
+
+-   more configuretion settings added;
+-   nginx server name label changed;
+
 ## 2.2.1 (2021-03-11)
 
 ### Raw commits log
