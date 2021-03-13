@@ -7,18 +7,6 @@ version: "3.9"
 # docker node update --label-add nginx=true <NODE-NAME>
 # docker service update --label-add nginx-server-name=www.example.com <SERVICE-NAME>
 
-x-build:
-  default_tag: latest
-  # auto_tags: [main, devel, latest]
-  # tags_mapping: { main: latest }
-
-networks:
-  private: { external: true }
-
-volumes:
-  maxmind: { external: true }
-  nginx: { name: "nginx" }
-
 services:
   nginx:
     image: softvisio/nginx
@@ -31,9 +19,6 @@ services:
         constraints:
           - "node.role == manager"
           - "node.labels.nginx == true"
-
-    environment:
-      SERVER_NAME_LABEL: nginx-server-name
 
     networks: [private]
 
@@ -53,3 +38,15 @@ services:
     build:
       labels:
         x-additional-image: registry.myworkforce.com/nginx/nginx
+
+networks:
+  private: { external: true }
+
+volumes:
+  maxmind: { external: true }
+  nginx: { name: "nginx" }
+
+x-build:
+  default_tag: latest
+  # auto_tags: [main, devel, latest]
+  # tags_mapping: { main: latest }
