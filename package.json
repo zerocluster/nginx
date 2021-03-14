@@ -1,5 +1,5 @@
 {
-    "name": "@softvisio/nginx",
+    "name": "nginx",
     "version": "2.4.0",
     "private": true,
     "description": "Nginx wrapper",
@@ -33,7 +33,6 @@
     "lint": [
         "*.*",
         "bin/**",
-        "contrib/**",
         "lib/**"
     ]
 }
