@@ -10,7 +10,6 @@ version: "3.9"
 services:
   nginx:
     image: softvisio/nginx
-    hostname: nginx
 
     deploy:
       replicas: 1
