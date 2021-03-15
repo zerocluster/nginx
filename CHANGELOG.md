@@ -1,3 +1,9 @@
+## 2.4.2 (2021-03-15)
+
+### Raw commits log
+
+-   shared memory fix;
+
 ## 2.4.1 (2021-03-14)
 
 ### Raw commits log
