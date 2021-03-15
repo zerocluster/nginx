@@ -1,6 +1,6 @@
 {
     "name": "@applications/nginx",
-    "version": "2.5.1",
+    "version": "2.5.2",
     "private": true,
     "description": "Nginx wrapper",
     "keywords": [
