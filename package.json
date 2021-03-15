@@ -1,5 +1,5 @@
 {
-    "name": "nginx",
+    "name": "@applications/nginx",
     "version": "2.5.1",
     "private": true,
     "description": "Nginx wrapper",
