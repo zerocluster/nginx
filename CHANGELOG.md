@@ -1,3 +1,9 @@
+## 2.5.4 (2021-04-01)
+
+### Raw commits log
+
+-   maxmind renamed to databases;
+
 ## 2.5.3 (2021-03-31)
 
 ### Raw commits log
