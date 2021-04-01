@@ -31,7 +31,7 @@ services:
       - { type: tmpfs, target: /dev/shm, tmpfs: { size: 1073741824 } }
       - { type: bind, source: /var/run/docker.sock, target: /var/run/docker.sock }
       - { type: volume, source: nginx, target: /var/lib/nginx }
-      - { type: volume, source: maxmind, target: /var/lib/maxmind }
+      - { type: volume, source: databses, target: /var/lib/databses }
 
     build:
       context: .
@@ -40,8 +40,8 @@ networks:
   private: { external: true }
 
 volumes:
-  maxmind: { external: true }
-  nginx: { name: "nginx" }
+  databses: { external: true }
+  nginx: { name: nginx }
 
 x-build:
   default_tag: latest
