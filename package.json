@@ -18,9 +18,10 @@
     },
     "license": "ISC",
     "author": "zdm <zdm@softvisio.net>",
-    "exports": {
-        ".": "./lib/index.js",
-        "./*": "./lib/*.js"
+    "type": "module",
+    "imports": {
+        "#index": "./lib/index.js",
+        "#resources/*": "./resources/*"
     },
     "scripts": {
         "lint": "softvisio-cli lint"

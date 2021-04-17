@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
-const App = require( "../lib" );
+import App from "#index";
 
-var app = new App();
+const app = new App();
 
 app.run();
