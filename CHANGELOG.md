@@ -1,3 +1,9 @@
+## 2.5.7 (2021-04-25)
+
+### Raw commits log
+
+-   nginx mainline -> latest;
+
 ## 2.5.6 (2021-04-17)
 
 ### Raw commits log
