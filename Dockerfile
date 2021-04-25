@@ -3,7 +3,7 @@ FROM softvisio/core
 HEALTHCHECK NONE
 
 RUN \
-    dnf install -y nginx-mainline \
+    dnf install -y nginx-latest \
     \
     # install deps
     && npm i --unsafe --only=prod \
