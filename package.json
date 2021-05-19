@@ -23,9 +23,6 @@
         "#index": "./lib/index.js",
         "#resources/*": "./resources/*"
     },
-    "scripts": {
-        "lint": "softvisio-cli lint"
-    },
     "dependencies": {
         "dockerode": "^3.2.1",
         "ejs": "^3.1.5",
