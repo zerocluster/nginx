@@ -7,14 +7,14 @@
         "softvisio",
         "nginx"
     ],
-    "homepage": "https://bitbucket.org/softvisio/nginx",
+    "homepage": "https://github.com/softvisio/nginx",
     "bugs": {
-        "url": "https://bitbucket.org/softvisio/nginx/issues",
+        "url": "https://github.com/softvisio/nginx/issues",
         "email": "zdm@softvisio.net"
     },
     "repository": {
         "type": "git",
-        "url": "https://bitbucket.org/softvisio/nginx.git"
+        "url": "https://github.com/softvisio/nginx.git"
     },
     "license": "ISC",
     "author": "zdm <zdm@softvisio.net>",
