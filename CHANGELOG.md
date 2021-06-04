@@ -1,110 +1,110 @@
 ## 2.5.9 (2021-06-01)
 
-### Raw commits log
+**Raw commits log**
 
 -   lint config removed;
 
 ## 2.5.8 (2021-05-19)
 
-### Raw commits log
+**Raw commits log**
 
 -   lint script removed;
 
 ## 2.5.7 (2021-04-25)
 
-### Raw commits log
+**Raw commits log**
 
 -   nginx mainline -> latest;
 
 ## 2.5.6 (2021-04-17)
 
-### Raw commits log
+**Raw commits log**
 
 -   ported to modules;
 
 ## 2.5.5 (2021-04-01)
 
-### Raw commits log
+**Raw commits log**
 
 -   volume name fixed;
 
 ## 2.5.4 (2021-04-01)
 
-### Raw commits log
+**Raw commits log**
 
 -   maxmind renamed to databases;
 
 ## 2.5.3 (2021-03-31)
 
-### Raw commits log
+**Raw commits log**
 
 -   lint pattern updated;
 
 ## 2.5.2 (2021-03-15)
 
-### Raw commits log
+**Raw commits log**
 
 -   package renamed;
 
 ## 2.5.1 (2021-03-15)
 
-### Raw commits log
+**Raw commits log**
 
 -   docker tags updated;
 
 ## 2.5.0 (2021-03-15)
 
-### Raw commits log
+**Raw commits log**
 
 -   config files renamed;
 
 ## 2.4.2 (2021-03-15)
 
-### Raw commits log
+**Raw commits log**
 
 -   shared memory fix;
 
 ## 2.4.1 (2021-03-14)
 
-### Raw commits log
+**Raw commits log**
 
 -   contrib dir removed;
 
 ## 2.4.0 (2021-03-14)
 
-### Raw commits log
+**Raw commits log**
 
 -   env updated;
 -   docker stack hostname removed;
 
 ## 2.3.1 (2021-03-13)
 
-### Raw commits log
+**Raw commits log**
 
 -   services reload fixed;
 
 ## 2.3.0 (2021-03-13)
 
-### Raw commits log
+**Raw commits log**
 
 -   more configuretion settings added;
 -   nginx server name label changed;
 
 ## 2.2.1 (2021-03-11)
 
-### Raw commits log
+**Raw commits log**
 
 -   labels compare fix;
 
 ## 2.2.0 (2021-03-11)
 
-### Raw commits log
+**Raw commits log**
 
 -   dynamic peers;
 
 ## 2.1.0 (2021-03-10)
 
-### Raw commits log
+**Raw commits log**
 
 -   dynamic upstreams support removed;
 -   disable healthcheck;
@@ -112,70 +112,70 @@
 
 ## 2.0.8 (2021-03-10)
 
-### Raw commits log
+**Raw commits log**
 
 -   docker-compose.yaml renamed to docker-stack.yaml;
 
 ## 2.0.7 (2021-03-09)
 
-### Raw commits log
+**Raw commits log**
 
 -   cache remove fixed;
 
 ## 2.0.6 (2021-03-09)
 
-### Raw commits log
+**Raw commits log**
 
 -   remove cache for destroyed services;
 -   upstream settings updated;
 
 ## 2.0.5 (2021-03-08)
 
-### Raw commits log
+**Raw commits log**
 
 -   docker-compose.yaml shebang added;
 
 ## 2.0.4 (2021-03-08)
 
-### Raw commits log
+**Raw commits log**
 
 -   volume name fixed;
 -   deploy instructions added;
 
 ## 2.0.3 (2021-03-08)
 
-### Raw commits log
+**Raw commits log**
 
 -   deploy instructions added;
 -   build tags updated;
 
 ## 2.0.2 (2021-03-08)
 
-### Raw commits log
+**Raw commits log**
 
 -   make package private;
 
 ## 2.0.1 (2021-03-08)
 
-### Raw commits log
+**Raw commits log**
 
 -   build tasg updated;
 
 ## 2.0.0 (2021-03-08)
 
-### Raw commits log
+**Raw commits log**
 
 -   swarm loadbalancer;
 
 ## 1.1.1 (2021-03-03)
 
-### Raw commits log
+**Raw commits log**
 
 -   template path fixed;
 
 ## 1.1.0 (2021-03-03)
 
-### Raw commits log
+**Raw commits log**
 
 -   package published;
 -   load balancer config template added;
@@ -184,13 +184,13 @@
 
 ## 1.0.2 (2021-02-17)
 
-### Raw commits log
+**Raw commits log**
 
 -   package-lock removed;
 
 ## 1.0.1 (2021-02-11)
 
-### Raw commits log
+**Raw commits log**
 
 -   use docker-wrapper script;
 -   deps updated;
