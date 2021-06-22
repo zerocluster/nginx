@@ -1,5 +1,16 @@
 # Changelog
 
+### 2.5.10 (2021-06-22)
+
+Changed:
+
+-   tmpl -> templates;
+-   moved to github;
+
+Fixed:
+
+-   changelog updated;
+
 ### 2.5.9 (2021-06-01)
 
 Changed:
