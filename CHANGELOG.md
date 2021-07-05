@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.5.11 (2021-07-05)
+
+Fixed:
+
+-   code improvements
+
 ### 2.5.10 (2021-06-22)
 
 Changed:
