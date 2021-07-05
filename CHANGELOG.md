@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.5.12 (2021-07-05)
+
+Fixed:
+
+-   docker stack databases volume removed
+
 ### 2.5.11 (2021-07-05)
 
 Fixed:
