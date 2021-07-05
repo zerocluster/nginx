@@ -31,7 +31,6 @@ services:
       - { type: tmpfs, target: /dev/shm, tmpfs: { size: 1073741824 } }
       - { type: bind, source: /var/run/docker.sock, target: /var/run/docker.sock }
       - { type: volume, source: nginx, target: /var/lib/nginx }
-      - { type: volume, source: databases, target: /var/lib/databases }
 
     build:
       context: .
@@ -40,7 +39,6 @@ networks:
   private: { external: true }
 
 volumes:
-  databases: { external: true }
   nginx: { name: nginx }
 
 x-build:
