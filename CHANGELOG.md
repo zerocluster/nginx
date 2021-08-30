@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.5.13 (2021-08-30)
+
+Changed:
+
+-   docker base image changed to softvisio/node
+
 ### 2.5.12 (2021-07-05)
 
 Fixed:
