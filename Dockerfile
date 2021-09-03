@@ -6,7 +6,7 @@ RUN \
     dnf install -y nginx-latest \
     \
     # install deps
-    && npm i --unsafe --only=prod \
+    && npm i --omit=dev \
     \
-    # clean npm cache
-    && rm -rf ~/.npm-cache
+    # cleanup node build environment
+    && curl -fsSL https://raw.githubusercontent.com/softvisio/scripts/main/env-build-node.sh | /bin/bash -s -- cleanup
