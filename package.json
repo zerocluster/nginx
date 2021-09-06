@@ -20,12 +20,12 @@
     "author": "zdm <zdm@softvisio.net>",
     "type": "module",
     "imports": {
+        "#core/*": "@softvisio/core/*",
         "#index": "./lib/index.js",
         "#resources/*": "./resources/*"
     },
     "dependencies": {
-        "dockerode": "^3.2.1",
-        "ejs": "^3.1.5",
-        "node-fetch": "^2.6.1"
+        "@softvisio/core": "^4.28.2",
+        "dockerode": "^3.2.1"
     }
 }
