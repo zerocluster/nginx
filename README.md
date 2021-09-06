@@ -4,17 +4,35 @@
 
 # Introduction
 
-<!-- Tell about the project -->
+Fully automated HTTP load balancer and cache for Docker Swarm.
 
 ## Install
 
 ```shell
-npm i @applications/nginx
+docker pull softvisio/nginx
 ```
 
 ## Usage
 
-<!-- Tell about how to use the project, give code examples -->
+Use docker swarm file, provided in this repository.
+
+```shell
+# mark node, where load balancer will be deployed
+docker node update --label-add nginx=true <NODE-NAME>
+
+# deploy load balancer service
+docker stack deploy --with-registry-auth -c docker-stack.yaml nginx
+```
+
+To add some docker swarm service to the load balancer you need to define service labels.
+
+```shell
+# add service to the load balancer
+docker service update --label-add nginx.server-name=www.example.com <SERVICE-NAME>
+
+# remove service from the load balancer
+docker service update --label-rm nginx.server-name <SERVICE-NAME>
+```
 
 ## Docker swarm labels
 
