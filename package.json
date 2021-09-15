@@ -1,8 +1,8 @@
 {
-    "name": "@applications/nginx",
+    "name": "services/nginx",
     "version": "2.5.17",
     "private": true,
-    "description": "Nginx wrapper",
+    "description": "Nginx service",
     "keywords": [
         "softvisio",
         "nginx"
