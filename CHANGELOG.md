@@ -1,5 +1,12 @@
 # Changelog
 
+### 2.5.18 (2021-09-17)
+
+Fixes:
+
+-   fix: docker devel tag removed
+-   fix: package renamed
+
 ### 2.5.17 (2021-09-12)
 
 Fixes:
