@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.5.20 (2021-09-26)
+
+Fixes:
+
+-   fix: invalid import
+
 ### 2.5.19 (2021-09-24)
 
 No notable changes since the previous release.
