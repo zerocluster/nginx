@@ -1,6 +1,6 @@
 {
     "name": "services/nginx",
-    "version": "2.5.20",
+    "version": "2.5.21",
     "private": true,
     "description": "Nginx service",
     "keywords": [

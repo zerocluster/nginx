@@ -1,5 +1,11 @@
 # Changelog
 
+### 2.5.21 (2021-09-30)
+
+Fixes:
+
+-   fix: config files renamed
+
 ### 2.5.20 (2021-09-26)
 
 Fixes:
