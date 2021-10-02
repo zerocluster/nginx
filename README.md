@@ -1,6 +1,6 @@
 <!-- !!! DO NOT EDIT, THIS FILE IS GENERATED AUTOMATICALLY !!!  -->
 
-> :information_source: Please, see the full project documentation here: [https://softvisio.github.io/nginx/](https://softvisio.github.io/nginx/).
+> :information_source: Please, see the full project documentation here: [https://zerocluster.github.io/nginx/](https://zerocluster.github.io/nginx/).
 
 # Introduction
 
@@ -9,7 +9,7 @@ Fully automated HTTP load balancer and cache for Docker Swarm.
 ## Install
 
 ```shell
-docker pull softvisio/nginx
+docker pull zerocluster/nginx
 ```
 
 ## Usage
