@@ -1,20 +1,20 @@
 {
-    "name": "nginx",
+    "name": "@zerocluster/nginx",
     "version": "2.5.22",
     "private": true,
     "description": "Nginx service",
     "keywords": [
-        "softvisio",
+        "zerocluster",
         "nginx"
     ],
-    "homepage": "https://github.com/softvisio/nginx",
+    "homepage": "https://github.com/zerocluster/nginx",
     "bugs": {
-        "url": "https://github.com/softvisio/nginx/issues",
+        "url": "https://github.com/zerocluster/nginx/issues",
         "email": "zdm@softvisio.net"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/softvisio/nginx.git"
+        "url": "https://github.com/zerocluster/nginx.git"
     },
     "license": "ISC",
     "author": "zdm <zdm@softvisio.net>",

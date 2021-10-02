@@ -9,7 +9,7 @@ version: "3.9"
 
 services:
   nginx:
-    image: softvisio/nginx
+    image: zerocluster/nginx
     init: true
     stop_grace_period: 5m
 

@@ -5,7 +5,7 @@ Fully automated HTTP load balancer and cache for Docker Swarm.
 ## Install
 
 ```shell
-docker pull softvisio/nginx
+docker pull zerocluster/nginx
 ```
 
 ## Usage
