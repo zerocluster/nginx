@@ -1,5 +1,5 @@
 {
-    "name": "services/nginx",
+    "name": "nginx",
     "version": "2.5.21",
     "private": true,
     "description": "Nginx service",
