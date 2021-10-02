@@ -1,5 +1,9 @@
 # Changelog
 
+### 2.5.22 (2021-10-02)
+
+No notable changes since the previous release.
+
 ### 2.5.21 (2021-09-30)
 
 Fixes:
