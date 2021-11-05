@@ -1,5 +1,13 @@
 # Changelog
 
+### 3.0.0-alpha.0 (2021-11-05)
+
+Breaking changes:
+
+-   feat!: new docker engine driver
+
+Migration:
+
 ### 2.6.1 (2021-10-06)
 
 No notable changes since the previous release.
