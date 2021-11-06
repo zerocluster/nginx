@@ -1,5 +1,13 @@
 # Changelog
 
+### 3.0.0-alpha.2 (2021-11-06)
+
+Fixes:
+
+-   fix: json stream
+
+Migration:
+
 ### 3.0.0-alpha.1 (2021-11-05)
 
 Fixes:
