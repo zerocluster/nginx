@@ -1,5 +1,13 @@
 # Changelog
 
+### 3.0.0-alpha.3 (2021-11-08)
+
+Features:
+
+-   feat: dev script
+
+Migration:
+
 ### 3.0.0-alpha.2 (2021-11-06)
 
 Fixes:
