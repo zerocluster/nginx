@@ -1,5 +1,13 @@
 # Changelog
 
+### 3.0.0-alpha.4 (2021-11-14)
+
+Fixes:
+
+-   fix: dockerfile
+
+Migration:
+
 ### 3.0.0-alpha.3 (2021-11-08)
 
 Features:
