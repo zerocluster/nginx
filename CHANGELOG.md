@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.0.0 (2021-11-16)
+
+No notable changes since the previous release.
+
+Migration:
+
 ### 3.0.0-alpha.4 (2021-11-14)
 
 Fixes:
