@@ -3,8 +3,7 @@ FROM zerocluster/node
 HEALTHCHECK NONE
 
 RUN \
-    apt update \
-    && apt install -y nginx-latest \
+    apt update && apt install -y nginx-latest \
     \
     # install deps
     && npm i --omit=dev \
