@@ -1,7 +1,5 @@
 FROM zerocluster/node
 
-HEALTHCHECK NONE
-
 RUN \
     apt update && apt install -y nginx-latest \
     \
