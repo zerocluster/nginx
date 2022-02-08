@@ -1,5 +1,12 @@
 # Changelog
 
+### 3.0.4 (2022-02-08)
+
+Fixes:
+
+-   fix: docker environment
+-   fix: docs
+
 ### 3.0.3 (2021-12-12)
 
 Fixes:
