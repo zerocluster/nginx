@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.0.5 (2022-02-08)
+
+Fixes:
+
+-   fix: package scripts
+
 ### 3.0.4 (2022-02-08)
 
 Fixes:
