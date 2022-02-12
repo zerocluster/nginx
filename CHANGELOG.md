@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.0.7 (2022-02-12)
+
+Fixes:
+
+-   fix: docker-stack.yaml renamed
+
 ### 3.0.6 (2022-02-11)
 
 Fixes:
