@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.0.8 (2022-02-19)
+
+Fixes:
+
+-   fix: host mode for docker ports
+
 ### 3.0.7 (2022-02-12)
 
 Fixes:
