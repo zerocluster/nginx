@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.0.9 (2022-02-19)
+
+Fixes:
+
+-   fix: x-forwarded-proto
+
 ### 3.0.8 (2022-02-19)
 
 Fixes:
