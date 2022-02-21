@@ -7,16 +7,16 @@
         "zerocluster",
         "nginx"
     ],
-    "homepage": "https://github.com/zerocluster/nginx",
+    "homepage": "https://zerocluster.github.io/nginx/",
     "bugs": {
         "url": "https://github.com/zerocluster/nginx/issues",
-        "email": "zdm@softvisio.net"
+        "email": "zdm <zdm@softvisio.net>"
     },
     "repository": {
         "type": "git",
         "url": "https://github.com/zerocluster/nginx.git"
     },
-    "license": "ISC",
+    "license": "Proprietary Software",
     "author": "zdm <zdm@softvisio.net>",
     "type": "module",
     "imports": {
