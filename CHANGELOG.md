@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.1.1 (2022-03-29)
+
+Fixes:
+
+-   fix: server name processing
+
 ### 3.1.0 (2022-03-29)
 
 Features:
