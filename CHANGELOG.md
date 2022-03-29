@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.1.6 (2022-03-29)
+
+Fixes:
+
+-   fix: peers log
+
 ### 3.1.5 (2022-03-29)
 
 Fixes:
