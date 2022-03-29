@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.1.4 (2022-03-29)
+
+Fixes:
+
+-   fix: nginx stream config
+
 ### 3.1.3 (2022-03-29)
 
 Fixes:
