@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.1.2 (2022-03-29)
+
+Fixes:
+
+-   fix: nginx config
+
 ### 3.1.1 (2022-03-29)
 
 Fixes:
