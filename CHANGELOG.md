@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.1.0 (2022-03-29)
+
+Features:
+
+-   feat: stream
+
 ### 3.0.10 (2022-02-21)
 
 Fixes:
