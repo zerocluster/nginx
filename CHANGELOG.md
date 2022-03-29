@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.1.3 (2022-03-29)
+
+Fixes:
+
+-   fix: split stream and http configs
+
 ### 3.1.2 (2022-03-29)
 
 Fixes:
