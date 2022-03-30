@@ -31,8 +31,6 @@ services:
     # environment:
     #   NODE_ENV: development
 
-    networks: [private]
-
     ports:
       - { published: 80, target: 80, mode: host }
       - { published: 443, target: 443, mode: host }
@@ -44,9 +42,6 @@ services:
 
     build:
       context: .
-
-networks:
-  private: { external: true }
 
 volumes:
   nginx: { name: nginx }
