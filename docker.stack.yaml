@@ -31,6 +31,8 @@ services:
     # environment:
     #   NODE_ENV: development
 
+    networks: [swarm]
+
     ports:
       - { published: 80, target: 80, mode: host }
       - { published: 443, target: 443, mode: host }
@@ -42,6 +44,9 @@ services:
 
     build:
       context: .
+
+networks:
+  swarm: { external: true }
 
 volumes:
   nginx: { name: nginx }
