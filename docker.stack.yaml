@@ -31,7 +31,7 @@ services:
     # environment:
     #   NODE_ENV: development
 
-    networks: [swarm]
+    networks: [main]
 
     ports:
       - { published: 80, target: 80, mode: host }
@@ -46,7 +46,7 @@ services:
       context: .
 
 networks:
-  swarm: { external: true }
+  main: { external: true }
 
 volumes:
   nginx: { name: nginx }
