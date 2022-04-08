@@ -46,7 +46,7 @@ apt update && apt install -y htop mc nginx-latest && npx update-core
 
 ## Docker swarm labels
 
-### nginx.server-name
+### nginx.http.server-name
 
 -   Type: <string\>
 -   Default: `""`
@@ -57,7 +57,7 @@ apt update && apt install -y htop mc nginx-latest && npx update-core
 
 Sets names of a virtual server. If no server names are provided service will be ignored or removed, if was added previously.
 
-### nginx.client-max-body-size
+### nginx.http.client-max-body-size
 
 -   Type: <string\>
 -   Default: `"10m"`
@@ -66,14 +66,14 @@ Sets names of a virtual server. If no server names are provided service will be 
 
 Sets the maximum allowed size of the client request body. If the size in a request exceeds the configured value, the 413 (Request Entity Too Large) error is returned to the client. Please be aware that browsers cannot correctly display this error. Setting size to 0 disables checking of client request body size.
 
-### nginx.cache
+### nginx.http.cache.enabled
 
 -   Type: <string\>
 -   Default: `"true"`
 
 Enable HTTP cache.
 
-### nginx.cache.max-size
+### nginx.http.cache.max-size
 
 -   Type: <string\>
 -   Default: `"10g"`
@@ -82,7 +82,7 @@ Enable HTTP cache.
 
 Maximum cache size. When the size is exceeded, it removes the least recently used data.
 
-### nginx.cache.inactive
+### nginx.http.cache.inactive
 
 -   Type: <string\>
 -   Default: `"1w"`
@@ -90,6 +90,13 @@ Maximum cache size. When the size is exceeded, it removes the least recently use
 [https://nginx.org/en/docs/http/ngx_http_proxy_module.html#proxy_cache_path](https://nginx.org/en/docs/http/ngx_http_proxy_module.html#proxy_cache_path).
 
 Cached data that are not accessed during the time specified by the inactive parameter get removed from the cache regardless of their freshness.
+
+### nginx.stream.port
+
+-   Type: <integer\>
+-   Default: `null`
+
+Stream port.
 
 ### Configuration measurement units
 
