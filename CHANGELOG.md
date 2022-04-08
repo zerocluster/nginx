@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.1.12 (2022-04-08)
+
+Fixes:
+
+-   fix: method name
+
 ### 3.1.11 (2022-04-08)
 
 Fixes:
