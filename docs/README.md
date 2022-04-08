@@ -24,10 +24,10 @@ To add some docker swarm service to the load balancer you need to define service
 
 ```shell
 # add service to the load balancer
-docker service update --label-add nginx.server-name=www.example.com <SERVICE-NAME>
+docker service update --label-add nginx.http.server-name=www.example.com <SERVICE-NAME>
 
 # remove service from the load balancer
-docker service update --label-rm nginx.server-name <SERVICE-NAME>
+docker service update --label-rm nginx.http.server-name <SERVICE-NAME>
 ```
 
 ## Debug
