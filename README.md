@@ -34,6 +34,16 @@ docker service update --label-add nginx.server-name=www.example.com <SERVICE-NAM
 docker service update --label-rm nginx.server-name <SERVICE-NAME>
 ```
 
+## Debug
+
+```shell
+docker run --rm -it --network main -v /var/local/@zerocluster/nginx:/var/local -v /var/run/docker.sock:/var/run/docker.sock --entrypoint bash zerocluster/node
+```
+
+```shell
+apt update && apt install -y htop mc nginx-latest && npx update-core
+```
+
 ## Docker swarm labels
 
 ### nginx.server-name
