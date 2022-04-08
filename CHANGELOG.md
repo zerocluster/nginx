@@ -1,5 +1,12 @@
 # Changelog
 
+### 3.1.10 (2022-04-08)
+
+Fixes:
+
+-   fix: refactor
+-   fix: typo
+
 ### 3.1.9 (2022-03-31)
 
 Fixes:
