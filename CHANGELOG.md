@@ -1,5 +1,12 @@
 # Changelog
 
+### 3.1.11 (2022-04-08)
+
+Fixes:
+
+-   fix: docker nginx labels
+-   fix: use name instead of id
+
 ### 3.1.10 (2022-04-08)
 
 Fixes:
