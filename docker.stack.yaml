@@ -9,7 +9,7 @@ version: "3.9"
 
 services:
   nginx:
-    image: zerocluster/nginx
+    image: ghcr.io/zerocluster/nginx
     init: true
     stop_grace_period: 5m
 
