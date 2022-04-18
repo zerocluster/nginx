@@ -1,6 +1,6 @@
 FROM ghcr.io/zerocluster/node
 
-LABEL org.opencontainers.image.source https://github.com/zerocluster/nginx
+LABEL org.opencontainers.image.source="https://github.com/zerocluster/nginx"
 
 RUN \
     apt update && apt install -y nginx-latest \
