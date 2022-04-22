@@ -28,8 +28,9 @@ services:
     #   timeout: 10s
     #   retries: 3
 
-    # environment:
-    #   NODE_ENV: development
+    environment:
+      # NODE_ENV: development
+      APP_LISTEN_IP_FAMILY: 4
 
     networks: [main]
 
