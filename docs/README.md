@@ -5,7 +5,7 @@ Fully automated HTTP load balancer and cache for Docker Swarm.
 ## Install
 
 ```shell
-docker pull zerocluster/nginx
+docker pull ghcr.io/zerocluster/nginx
 ```
 
 ## Usage
@@ -33,7 +33,7 @@ docker service update --label-rm nginx.http.server-name <SERVICE-NAME>
 ## Debug
 
 ```shell
-docker run --rm -it --network main -v /var/local/@zerocluster/nginx:/var/local -v /var/run/docker.sock:/var/run/docker.sock --entrypoint bash zerocluster/node
+docker run --rm -it --network main -v /var/local/@zerocluster/nginx:/var/local -v /var/run/docker.sock:/var/run/docker.sock --entrypoint bash ghcr.io/zerocluster/node
 ```
 
 ```shell
