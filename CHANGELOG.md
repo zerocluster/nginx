@@ -1,5 +1,15 @@
 # Changelog
 
+### 3.1.16 (2022-04-23)
+
+Fixes:
+
+-   fix: dns watcher
+-   fix: docker entry point script
+-   fix: exit with nginx exit code
+-   fix: ip address family setting
+-   fix: spawn serveer
+
 ### 3.1.15 (2022-04-19)
 
 Fixes:
