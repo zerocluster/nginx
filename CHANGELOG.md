@@ -1,5 +1,17 @@
 # Changelog
 
+### 3.2.0 (2022-05-08)
+
+Features:
+
+-   feat: proxy protocol
+
+Fixes:
+
+-   fix: gzip min length 512k
+-   fix: resolver disabled
+-   fix: X-Forwarded-Proto removed
+
 ### 3.1.16 (2022-04-23)
 
 Fixes:
