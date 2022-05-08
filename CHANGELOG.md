@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.2.1 (2022-05-08)
+
+Fixes:
+
+-   fix: proxy protocol
+
 ### 3.2.0 (2022-05-08)
 
 Features:
