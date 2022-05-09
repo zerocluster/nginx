@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.2.3 (2022-05-09)
+
+Fixes:
+
+-   fix: healthcheck location for gcloud load balancer
+
 ### 3.2.2 (2022-05-09)
 
 Fixes:
