@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.2.4 (2022-05-09)
+
+Fixes:
+
+-   fix: add x-forwarded-for
+
 ### 3.2.3 (2022-05-09)
 
 Fixes:
