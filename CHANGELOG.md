@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.2.2 (2022-05-09)
+
+Fixes:
+
+-   fix: ssl removed
+
 ### 3.2.1 (2022-05-08)
 
 Fixes:
