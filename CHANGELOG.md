@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.2.6 (2022-05-11)
+
+Fixes:
+
+-   fix: app schema env
+
 ### 3.2.5 (2022-05-10)
 
 Fixes:
