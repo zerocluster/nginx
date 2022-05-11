@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.2.7 (2022-05-11)
+
+Fixes:
+
+-   fix: strict transport security removed
+
 ### 3.2.6 (2022-05-11)
 
 Fixes:
