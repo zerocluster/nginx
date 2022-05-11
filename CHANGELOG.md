@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.2.9 (2022-05-11)
+
+Fixes:
+
+-   fix: postgress port publish
+
 ### 3.2.8 (2022-05-11)
 
 Fixes:
