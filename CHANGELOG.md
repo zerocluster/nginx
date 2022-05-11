@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.2.10 (2022-05-11)
+
+Fixes:
+
+-   fix: docker config
+
 ### 3.2.9 (2022-05-11)
 
 Fixes:
