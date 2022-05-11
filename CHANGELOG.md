@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.2.8 (2022-05-11)
+
+Fixes:
+
+-   fix: do not publish 443 port
+
 ### 3.2.7 (2022-05-11)
 
 Fixes:
