@@ -1,5 +1,12 @@
 # Changelog
 
+### 3.2.11 (2022-05-16)
+
+Fixes:
+
+-   fix: gzip disabled
+-   fix: proxy cache methods
+
 ### 3.2.10 (2022-05-11)
 
 Fixes:
