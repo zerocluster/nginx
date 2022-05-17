@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.2.17 (2022-05-17)
+
+Fixes:
+
+-   fix: proxy cache bypass
+
 ### 3.2.16 (2022-05-17)
 
 Fixes:
