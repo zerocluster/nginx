@@ -6,4 +6,5 @@ properties:
   httpCacheMaxSize: { type: string, format: nginx-size, default: "10g" }
   httpCacheInactive: { type: string, format: nginx-duration, default: "1w" }
   httpUpstreamCacheStatus: { type: boolean, default: false }
+  httpProxyCacheBypass: { type: boolean, default: false }
   streamPort: { type: array, items: { type: integer, minimum: 1, maximum: 65535 }, default: [] }
