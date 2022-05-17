@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.2.20 (2022-05-17)
+
+Fixes:
+
+-   fix: httpProxyCacheBypass option
+
 ### 3.2.19 (2022-05-17)
 
 Fixes:
