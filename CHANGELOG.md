@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.2.19 (2022-05-17)
+
+Fixes:
+
+-   fix: proxy protocol removed
+
 ### 3.2.18 (2022-05-17)
 
 Fixes:
