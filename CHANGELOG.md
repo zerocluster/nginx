@@ -1,5 +1,13 @@
 # Changelog
 
+### 3.2.13 (2022-05-17)
+
+Fixes:
+
+-   fix: gcloud
+-   fix: service options validation
+-   fix: upstream cache status
+
 ### 3.2.12 (2022-05-16)
 
 Fixes:
