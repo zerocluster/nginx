@@ -1,5 +1,12 @@
 # Changelog
 
+### 3.2.18 (2022-05-17)
+
+Fixes:
+
+-   fix: nginx.http.proxy-cache-bypass options
+-   fix: template vars
+
 ### 3.2.17 (2022-05-17)
 
 Fixes:
