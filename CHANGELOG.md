@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.2.14 (2022-05-17)
+
+Fixes:
+
+-   fix: service options validation
+
 ### 3.2.13 (2022-05-17)
 
 Fixes:
