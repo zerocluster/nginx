@@ -36,6 +36,7 @@ services:
 
     ports:
       - { published: 80, target: 80, mode: host }
+      - { published: 1080, target: 1080, mode: host }
       - { published: 5432, target: 5432, mode: host }
 
     volumes:
