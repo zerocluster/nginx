@@ -1,5 +1,13 @@
 # Changelog
 
+### 3.3.2 (2022-05-21)
+
+Fixes:
+
+-   fix: 1080 port added
+-   fix: port 8099
+-   fix: ports
+
 ### 3.3.1 (2022-05-21)
 
 Fixes:
