@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.3.3 (2022-05-27)
+
+Fixes:
+
+-   fix: uws header removed
+
 ### 3.3.2 (2022-05-21)
 
 Fixes:
