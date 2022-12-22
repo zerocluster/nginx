@@ -1,5 +1,12 @@
 # Changelog
 
+### 3.3.5 (2022-12-22)
+
+Fixes:
+
+-   fix: app refactored
+-   fix: deps
+
 ### 3.3.4 (2022-09-14)
 
 Fixes:
