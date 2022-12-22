@@ -1,0 +1,7 @@
+dependencies:
+  - "@softvisio/core"
+
+components: ~
+
+config:
+  listenIpFamily: 4

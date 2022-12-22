@@ -1,0 +1,6 @@
+type: object
+properties:
+  listenIpFamily: { enum: [0, 4, 6], default: 4 }
+
+required: [listenIpFamily]
+additionalProperties: false
