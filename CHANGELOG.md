@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.4.0 (2023-04-15)
+
+Features:
+
+-   feat: shutdown refactored
+
 ### 3.3.6 (2023-01-24)
 
 Fixes:
