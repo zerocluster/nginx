@@ -1,5 +1,13 @@
 # Changelog
 
+### 3.5.2 (2023-04-22)
+
+Fixes:
+
+-   fix: api/rpc stop
+-   fix: app main script
+-   fix: shutdown
+
 ### 3.5.1 (2023-04-15)
 
 Fixes:
