@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.5.3 (2023-04-22)
+
+Fixes:
+
+-   fix: shutdown
+
 ### 3.5.2 (2023-04-22)
 
 Fixes:
