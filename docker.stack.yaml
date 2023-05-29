@@ -28,8 +28,10 @@ services:
     #   timeout: 10s
     #   retries: 3
 
-    # environment:
-    #   NODE_ENV: development
+    environment:
+      NODE_ENV: production
+
+    command: --service default
 
     networks: [main]
 
