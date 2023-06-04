@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.5.6 (2023-06-04)
+
+Fixes:
+
+-   fix: app init
+
 ### 3.5.5 (2023-06-01)
 
 Fixes:
