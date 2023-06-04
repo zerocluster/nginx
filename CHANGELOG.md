@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.5.7 (2023-06-04)
+
+Fixes:
+
+-   fix: health check
+
 ### 3.5.6 (2023-06-04)
 
 Fixes:
