@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.5.8 (2023-06-06)
+
+Fixes:
+
+-   fix: app configs
+
 ### 3.5.7 (2023-06-04)
 
 Fixes:
