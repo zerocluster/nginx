@@ -1,6 +1,15 @@
-type: object
-properties:
-  listenIpFamily: { enum: [0, 4, 6], default: 4 }
+- $id: env
+  type: object
+  properties: {}
+  required: []
 
-required: [listenIpFamily]
-additionalProperties: false
+- $id: public-config
+  type: object
+  properties: {}
+
+- $id: config1
+  type: object
+  properties:
+    listenIpFamily: { enum: [0, 4, 6] }
+  additionalProperties: false
+  required: [listenIpFamily]
