@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.5.9 (2023-06-10)
+
+Fixes:
+
+-   fix: app cli
+
 ### 3.5.8 (2023-06-06)
 
 Fixes:
