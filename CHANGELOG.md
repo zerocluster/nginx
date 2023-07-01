@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.6.2 (2023-07-01)
+
+Fixes:
+
+-   fix: data location
+
 ### 3.6.1 (2023-06-15)
 
 Fixes:
