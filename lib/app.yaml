@@ -2,8 +2,7 @@ dependencies:
   - "@softvisio/core"
 
 services:
-  server:
-    env: true
+  server: ~
 
 defaultService: server
 
