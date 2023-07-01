@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.6.4 (2023-07-01)
+
+Fixes:
+
+-   fix: app env
+
 ### 3.6.3 (2023-07-01)
 
 Fixes:
