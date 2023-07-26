@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.7.1 (2023-07-26)
+
+Fixes:
+
+-   fix: config
+
 ### 3.7.0 (2023-07-26)
 
 Features:
