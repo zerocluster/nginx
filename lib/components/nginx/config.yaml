@@ -1,0 +1,7 @@
+dependencies:
+  - rpc
+
+optionalDependencies: ~
+
+config:
+  listenIpFamily: 4

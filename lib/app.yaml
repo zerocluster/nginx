@@ -2,11 +2,12 @@ dependencies:
   - "@softvisio/core"
 
 services:
-  server: ~
+  server:
+    components:
+      nginx: true
 
 defaultService: server
 
 components: ~
 
-config:
-  listenIpFamily: 4
+config: ~
