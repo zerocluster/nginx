@@ -4,4 +4,5 @@ dependencies:
 optionalDependencies: ~
 
 config:
+  port: 80
   listenIpFamily: 4

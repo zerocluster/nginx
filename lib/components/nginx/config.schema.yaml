@@ -1,6 +1,7 @@
 - $id: config1
   type: object
   properties:
+    port: { type: number, format: ip-port }
     listenIpFamily: { enum: [0, 4, 6] }
   additionalProperties: false
   required: [listenIpFamily]
