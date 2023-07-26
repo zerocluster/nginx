@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.7.0 (2023-07-26)
+
+Features:
+
+-   feat: nginx component
+
 ### 3.6.7 (2023-07-25)
 
 Fixes:
