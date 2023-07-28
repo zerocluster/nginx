@@ -1,4 +1,4 @@
-FROM ghcr.io/zerocluster/node
+FROM ghcr.io/zerocluster/node/app
 
 RUN \
     apt-get update && apt-get install -y nginx-latest \
