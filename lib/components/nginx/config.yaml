@@ -1,8 +1,0 @@
-dependencies:
-  - rpc
-
-optionalDependencies: ~
-
-config:
-  httpPort: 80
-  listenIpFamily: 4
