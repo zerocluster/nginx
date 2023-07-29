@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.8.1 (2023-07-29)
+
+Fixes:
+
+-   fix: ports
+
 ### 3.8.0 (2023-07-28)
 
 Features:
