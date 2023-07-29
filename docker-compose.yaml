@@ -40,7 +40,3 @@ networks:
 
 volumes:
   nginx: { name: nginx }
-
-x-build:
-  default_tag: latest
-  auto_tags: [main, latest, next]
