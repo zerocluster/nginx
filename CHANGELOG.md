@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.8.5 (2023-07-31)
+
+Fixes:
+
+-   fix: .dockerignore
+
 ### 3.8.4 (2023-07-30)
 
 Fixes:
