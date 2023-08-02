@@ -10,6 +10,6 @@ defaultService: server
 
 components:
 nginx:
-  httpPort: 80
+  dockerEnabled: true
 
 config: ~
