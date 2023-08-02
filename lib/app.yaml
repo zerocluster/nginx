@@ -8,6 +8,8 @@ services:
 
 defaultService: server
 
-components: ~
+components:
+nginx:
+  httpPort: 80
 
 config: ~
