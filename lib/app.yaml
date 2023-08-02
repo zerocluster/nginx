@@ -9,7 +9,7 @@ services:
 defaultService: server
 
 components:
-nginx:
-  dockerEnabled: true
+  nginx:
+    dockerEnabled: true
 
 config: ~
