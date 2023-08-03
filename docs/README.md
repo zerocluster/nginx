@@ -33,7 +33,7 @@ docker service update --label-rm nginx.http.server-name <SERVICE-NAME>
 ## Debug
 
 ```shell
-docker run --rm -it --network main -v /var/local/zerocluster/nginx:/var/local -v /var/run/docker.sock:/var/run/docker.sock ghcr.io/zerocluster/node
+docker run --rm -it --network main -p 80:8080 -v /var/local/zerocluster/nginx:/var/local -v /var/run/docker.sock:/var/run/docker.sock ghcr.io/zerocluster/node
 ```
 
 ```shell
