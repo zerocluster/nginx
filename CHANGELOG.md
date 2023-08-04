@@ -1,5 +1,16 @@
 # Changelog
 
+### 3.9.0 (2023-08-04)
+
+Features:
+
+-   feat: nginx component
+
+Fixes:
+
+-   fix: ajv formats
+-   fix: docker entrypoint
+
 ### 3.8.5 (2023-07-31)
 
 Fixes:
