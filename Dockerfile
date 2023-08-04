@@ -1,7 +1,7 @@
 FROM ghcr.io/zerocluster/node/app
 
 RUN \
-    apt-get update && apt-get install -y nginx-latest \
+    apt-get update && apt-get install -y tengine-latest \
     \
     # install deps
     && npm i --omit=dev \
