@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.9.1 (2023-08-04)
+
+Fixes:
+
+-   fix: tengine
+
 ### 3.9.0 (2023-08-04)
 
 Features:
