@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.9.2 (2023-08-05)
+
+Fixes:
+
+-   fix: use nginx
+
 ### 3.9.1 (2023-08-04)
 
 Fixes:
