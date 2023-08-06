@@ -53,7 +53,7 @@ apt update && apt install -y htop mc nginx-latest && npx update-core
 
 Sets names of a virtual server. If no server names are provided service will be ignored or removed, if was added previously.
 
-### nginx.http.client-max-body-size
+### nginx.http.max-body-size
 
 -   Type: <string\>
 -   Default: `"10m"`
