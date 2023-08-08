@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.10.0 (2023-08-08)
+
+Features:
+
+-   feat: nginx rpc
+
 ### 3.9.3 (2023-08-06)
 
 Fixes:
