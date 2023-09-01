@@ -4,7 +4,7 @@ version: "3.9"
 
 # NOTE deploy
 # docker stack deploy --with-registry-auth -c docker-stack.yaml nginx
-# docker node update --label-add nginx=true <NODE-NAME>
+# docker node update --label-add nginx=true `docker node inspect self --format "{{ .ID }}"`
 # docker service update --label-add nginx.http.server-name=www.example.com <SERVICE-NAME>
 
 services:
