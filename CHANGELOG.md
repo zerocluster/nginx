@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.10.1 (2023-09-01)
+
+Fixes:
+
+-   fix: gcloud
+
 ### 3.10.0 (2023-08-08)
 
 Features:
