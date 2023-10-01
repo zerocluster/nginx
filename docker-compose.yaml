@@ -21,7 +21,7 @@ services:
           - "node.role == manager"
           - "node.labels.nginx == true"
 
-    command: ""
+    command: run
 
     networks: [main]
 
