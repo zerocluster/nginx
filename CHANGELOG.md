@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.11.0 (2023-12-17)
+
+Features:
+
+-   feat: nginx acme
+
 ### 3.10.4 (2023-11-08)
 
 Fixes:
