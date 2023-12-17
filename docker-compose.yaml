@@ -23,10 +23,14 @@ services:
 
     command: run
 
+    configs:
+      - { source: env.yaml, target: /var/local/package/env.yaml }
+
     networks: [main]
 
     ports:
       - { published: 80, target: 80, mode: host }
+      - { published: 443, target: 443, mode: host }
       # - { published: 8085, target: 8085, mode: host }
 
     volumes:
@@ -35,6 +39,9 @@ services:
       - { type: volume, source: nginx, target: /var/local/package/data }
 
     build: .
+
+configs:
+  env.yaml: { file: env.yaml }
 
 networks:
   main: { external: true }
