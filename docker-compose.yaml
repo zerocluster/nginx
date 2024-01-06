@@ -31,6 +31,7 @@ services:
     ports:
       - { published: 80, target: 80 }
       - { published: 443, target: 443 }
+      # - { published: 8085, target: 8085 }
 
     volumes:
       - { type: tmpfs, target: /dev/shm, tmpfs: { size: 1073741824 } }
