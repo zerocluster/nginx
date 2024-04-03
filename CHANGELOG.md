@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.11.7 (2024-04-03)
+
+Fixes:
+
+-   fix: nginx stable
+
 ### 3.11.6 (2024-01-25)
 
 Fixes:
