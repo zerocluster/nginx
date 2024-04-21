@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.11.13 (2024-04-21)
+
+Fixes:
+
+-   fix: nginx stable
+
 ### 3.11.12 (2024-04-21)
 
 Fixes:
