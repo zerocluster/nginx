@@ -1,7 +1,7 @@
 FROM ghcr.io/zerocluster/node/app
 
 RUN \
-    apt-get update && apt-get install -y nginx-stable \
+    apt-get update && apt-get install -y nginx-stable=1.25.3 \
     \
     # install deps
     && NODE_ENV=production npm i \
