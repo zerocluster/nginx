@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.11.9 (2024-04-21)
+
+Fixes:
+
+-   fix: nginx mainline
+
 ### 3.11.8 (2024-04-15)
 
 Fixes:
