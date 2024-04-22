@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.11.15 (2024-04-22)
+
+Fixes:
+
+-   fix: nginx real ip
+
 ### 3.11.14 (2024-04-22)
 
 Fixes:
