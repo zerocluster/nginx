@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.11.17 (2024-04-24)
+
+Fixes:
+
+-   fix: cli config docker schema
+
 ### 3.11.16 (2024-04-24)
 
 Fixes:
