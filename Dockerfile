@@ -1,6 +1,6 @@
 FROM ghcr.io/zerocluster/node/app
 
-ARG NGINX_VERSION=stable
+ARG NGINX_VERSION
 
 RUN \
     apt-get update && apt-get install -y nginx-$NGINX_VERSION \
