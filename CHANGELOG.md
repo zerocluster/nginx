@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.11.20 (2024-04-28)
+
+Fixes:
+
+-   fix: nginx trusted subnets
+
 ### 3.11.19 (2024-04-25)
 
 Fixes:
