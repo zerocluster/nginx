@@ -14,4 +14,8 @@ components:
   nginx:
     dockerEnabled: true
 
+    httpSetRealIpFrom: [local, cloudflate, google-cloud-load-balancers]
+
+    streamSetRealIpFrom: [local, cloudflate, google-cloud-load-balancers]
+
 config: ~
