@@ -14,9 +14,7 @@ components:
   nginx:
     dockerEnabled: true
 
-    httpSetRealIpFrom: [local, cloudflare, google-cloud-load-balancers]
-
-    streamSetRealIpFrom: [local, cloudflare, google-cloud-load-balancers]
+    setRealIpFrom: [local, cloudflare, google-cloud-load-balancers]
 
     realIpHeader: x-forwarded-for
 
