@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.11.24 (2024-05-03)
+
+Fixes:
+
+-   fix: storage component removed
+
 ### 3.11.23 (2024-04-30)
 
 Fixes:
