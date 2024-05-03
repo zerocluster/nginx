@@ -5,7 +5,6 @@ services:
   server:
     components:
       nginx: true
-      storage: true
       rpc: true
 
 defaultService: server
