@@ -13,8 +13,10 @@ components:
   nginx:
     dockerEnabled: true
 
-    setRealIpFrom: [local, cloudflare, google-cloud-load-balancers]
+    acme:
+      httpAuthorizationEnabled: true
 
+    setRealIpFrom: [local, cloudflare, google-cloud-load-balancers]
     realIpHeader: x-forwarded-for
 
 config: ~
