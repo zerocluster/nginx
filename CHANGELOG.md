@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.11.25 (2024-05-13)
+
+Fixes:
+
+-   fix: nginx config build
+
 ### 3.11.24 (2024-05-03)
 
 Fixes:
