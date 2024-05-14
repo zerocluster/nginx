@@ -15,7 +15,6 @@ components:
 
     acme:
       enabled: true
-      httpAuthorizationEnabled: true
 
     setRealIpFrom: [local, cloudflare, google-cloud-load-balancers]
     realIpHeader: x-forwarded-for
