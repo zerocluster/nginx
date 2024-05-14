@@ -14,6 +14,7 @@ components:
     dockerEnabled: true
 
     acme:
+      enabled: true
       httpAuthorizationEnabled: true
 
     setRealIpFrom: [local, cloudflare, google-cloud-load-balancers]
