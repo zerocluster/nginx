@@ -7,6 +7,6 @@
   type: object
   properties: {}
 
-- $id: config1
+- $id: config
   type: object
   properties: {}
