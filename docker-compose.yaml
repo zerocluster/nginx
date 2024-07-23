@@ -10,6 +10,7 @@ version: "3.9"
 services:
   nginx:
     image: ghcr.io/zerocluster/nginx
+    depends_on: [postgresql]
     init: true
     stop_grace_period: 5m
 
@@ -24,7 +25,7 @@ services:
     command: run
 
     secrets:
-      - { source: env.yaml, target: /var/local/package/env.yaml }
+      - { source: nginx, target: /var/local/package/env.yaml }
 
     networks: [main]
 
@@ -44,7 +45,7 @@ services:
         NGINX_VERSION: stable
 
 secrets:
-  env.yaml: { file: env.yaml }
+  nginx: { file: env.yaml }
 
 networks:
   main: { external: true }
