@@ -1,11 +1,11 @@
 #!/usr/bin/env -S docker stack deploy --with-registry-auth nginx -c
 
-version: "3.9"
-
 # NOTE deploy
 # docker stack deploy --with-registry-auth -c docker-stack.yaml nginx
 # docker node update --label-add nginx=true `docker node inspect self --format "{{ .ID }}"`
 # docker service update --label-add nginx.http.server-name=www.example.com <SERVICE-NAME>
+
+version: "3.9"
 
 services:
   nginx:
@@ -27,7 +27,7 @@ services:
     secrets:
       - { source: nginx, target: /var/local/package/env.yaml }
 
-    networks: [main]
+    networks: [network]
 
     ports:
       - { published: 80, target: 80, mode: host }
@@ -48,7 +48,9 @@ secrets:
   nginx: { file: env.yaml }
 
 networks:
-  main: { external: true }
+  network:
+    name: ${DOCKER_STACK_NETWORK_NAME:-ingress}
+    external: true
 
 volumes:
   nginx: { name: nginx }
