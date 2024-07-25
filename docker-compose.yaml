@@ -23,7 +23,7 @@ services:
     command: run
 
     secrets:
-      - { source: nginx, target: /var/local/package/env.yaml }
+      - { source: nginx_env.yaml, target: /var/local/package/env.yaml }
 
     networks: [network]
 
@@ -43,7 +43,7 @@ services:
         NGINX_VERSION: stable
 
 secrets:
-  nginx: { file: env.yaml }
+  nginx_env.yaml: { file: env.yaml }
 
 networks:
   network:
@@ -51,4 +51,4 @@ networks:
     external: true
 
 volumes:
-  nginx: { name: nginx }
+  nginx: ~
