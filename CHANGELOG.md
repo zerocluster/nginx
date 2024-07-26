@@ -1,5 +1,12 @@
 # Changelog
 
+### 3.11.34 (2024-07-26)
+
+Fixes:
+
+-   fix: deps
+-   fix: package lock added
+
 ### 3.11.33 (2024-07-25)
 
 Fixes:
