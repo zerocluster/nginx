@@ -1,7 +1,4 @@
-#!/usr/bin/env -S docker stack deploy --with-registry-auth nginx -c
-
 # NOTE deploy
-# docker stack deploy --with-registry-auth -c docker-stack.yaml nginx
 # docker node update --label-add nginx=true `docker node inspect self --format "{{ .ID }}"`
 # docker service update --label-add nginx.http.server-name=www.example.com <SERVICE-NAME>
 
@@ -46,9 +43,7 @@ secrets:
   nginx_env.yaml: { file: env.yaml }
 
 networks:
-  network:
-    name: ${DOCKER_STACK_NETWORK_NAME:-main}
-    external: true
+  network: ~
 
 volumes:
   nginx: ~
