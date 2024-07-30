@@ -1,5 +1,12 @@
 # Changelog
 
+### 3.11.36 (2024-07-30)
+
+Fixes:
+
+-   fix: deps
+-   fix: docker stack network
+
 ### 3.11.35 (2024-07-28)
 
 Fixes:
