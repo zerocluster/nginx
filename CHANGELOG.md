@@ -1,5 +1,12 @@
 # Changelog
 
+### 3.11.37 (2024-08-01)
+
+Fixes:
+
+-   fix: deps
+-   fix: docker depends_on
+
 ### 3.11.36 (2024-07-30)
 
 Fixes:
