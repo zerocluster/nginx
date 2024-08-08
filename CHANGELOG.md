@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.11.39 (2024-08-08)
+
+Fixes:
+
+-   fix: dependencies update
+
 ### 3.11.38 (2024-08-01)
 
 Fixes:
