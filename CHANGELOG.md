@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.11.49 (2024-09-15)
+
+Fixes:
+
+-   fix: app
+
 ### 3.11.48 (2024-09-13)
 
 No notable changes since the previous release.
