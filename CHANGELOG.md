@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.11.54 (2024-10-20)
+
+No notable changes since the previous release.
+
+[Full list of the changes](https://github.com/zerocluster/nginx/compare/v3.11.53...v3.11.54)
+
 ### 3.11.53 (2024-10-17)
 
 No notable changes since the previous release.
