@@ -1,6 +1,6 @@
 <!-- !!! DO NOT EDIT, THIS FILE IS GENERATED AUTOMATICALLY !!!  -->
 
-> :information_source: Please, see the full project documentation here:<br>[https://zerocluster.github.io/nginx/](https://zerocluster.github.io/nginx/)
+> :information_source: Please, see the full project documentation here:<br><https://zerocluster.github.io/nginx/>
 
 # Introduction
 
@@ -48,59 +48,59 @@ apt update && apt install -y htop mc nginx-latest && npx update-core
 
 ### nginx.http.server-name
 
--   Type: <string\>
+-   Type: {string}
 -   Default: `""`
 
-[https://nginx.org/en/docs/http/server_names.html](https://nginx.org/en/docs/http/server_names.html).
+<https://nginx.org/en/docs/http/server_names.html>.
 
-[https://nginx.org/en/docs/http/ngx_http_core_module.html#server_name](https://nginx.org/en/docs/http/ngx_http_core_module.html#server_name).
+<https://nginx.org/en/docs/http/ngx_http_core_module.html#server_name>.
 
 Sets names of a virtual server. If no server names are provided service will be ignored or removed, if was added previously.
 
 ### nginx.http.max-body-size
 
--   Type: <string\>
+-   Type: {string}
 -   Default: `"10m"`
 
-[https://nginx.org/en/docs/http/ngx_http_core_module.html#client_max_body_size](https://nginx.org/en/docs/http/ngx_http_core_module.html#client_max_body_size).
+<https://nginx.org/en/docs/http/ngx_http_core_module.html#client_max_body_size>.
 
 Sets the maximum allowed size of the client request body. If the size in a request exceeds the configured value, the 413 (Request Entity Too Large) error is returned to the client. Please be aware that browsers cannot correctly display this error. Setting size to 0 disables checking of client request body size.
 
 ### nginx.http.cache.enabled
 
--   Type: <string\>
+-   Type: {string}
 -   Default: `"true"`
 
 Enable HTTP cache.
 
 ### nginx.http.cache.max-size
 
--   Type: <string\>
+-   Type: {string}
 -   Default: `"10g"`
 
-[https://nginx.org/en/docs/http/ngx_http_proxy_module.html#proxy_cache_path](https://nginx.org/en/docs/http/ngx_http_proxy_module.html#proxy_cache_path).
+<https://nginx.org/en/docs/http/ngx_http_proxy_module.html#proxy_cache_path>.
 
 Maximum cache size. When the size is exceeded, it removes the least recently used data.
 
 ### nginx.http.cache.inactive
 
--   Type: <string\>
+-   Type: {string}
 -   Default: `"1w"`
 
-[https://nginx.org/en/docs/http/ngx_http_proxy_module.html#proxy_cache_path](https://nginx.org/en/docs/http/ngx_http_proxy_module.html#proxy_cache_path).
+<https://nginx.org/en/docs/http/ngx_http_proxy_module.html#proxy_cache_path>.
 
 Cached data that are not accessed during the time specified by the inactive parameter get removed from the cache regardless of their freshness.
 
 ### nginx.stream.port
 
--   Type: <integer\>
+-   Type: {integer}
 -   Default: `null`
 
 Stream port.
 
 ### Configuration measurement units
 
-[https://nginx.org/en/docs/syntax.html](https://nginx.org/en/docs/syntax.html).
+<https://nginx.org/en/docs/syntax.html>.
 
 Sizes can be specified in bytes, kilobytes (suffixes `"k"` and `"K"`) or megabytes (suffixes `"m"` and `"M"`), for example, “1024”, “8k”, “1m”.
 
