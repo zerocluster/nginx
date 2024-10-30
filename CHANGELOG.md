@@ -1,5 +1,13 @@
 # Changelog
 
+### 3.11.59 (2024-10-30)
+
+Other changes:
+
+-   chore: update package dependencies
+
+[Compare with the previous release: v3.11.58 ... v3.11.59](https://github.com/zerocluster/nginx/compare/v3.11.58...v3.11.59)
+
 ### 3.11.58 (2024-10-29)
 
 Other changes:
