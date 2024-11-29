@@ -4,7 +4,7 @@
 
 Other changes:
 
--   chore: update package dependencies
+- chore: update package dependencies
 
 [Compare with the previous release: v3.11.59 ... v3.11.60](https://github.com/zerocluster/nginx/compare/v3.11.59...v3.11.60)
 
@@ -12,7 +12,7 @@ Other changes:
 
 Other changes:
 
--   chore: update package dependencies
+- chore: update package dependencies
 
 [Compare with the previous release: v3.11.58 ... v3.11.59](https://github.com/zerocluster/nginx/compare/v3.11.58...v3.11.59)
 
@@ -20,8 +20,8 @@ Other changes:
 
 Other changes:
 
--   chore: update docs
--   chore: update package dependencies
+- chore: update docs
+- chore: update package dependencies
 
 [Compare with the previous release: v3.11.57 ... v3.11.58](https://github.com/zerocluster/nginx/compare/v3.11.57...v3.11.58)
 
@@ -29,7 +29,7 @@ Other changes:
 
 Other changes:
 
--   chore: update package dependencies
+- chore: update package dependencies
 
 [Compare with the previous release: v3.11.56 ... v3.11.57](https://github.com/zerocluster/nginx/compare/v3.11.56...v3.11.57)
 
@@ -37,7 +37,7 @@ Other changes:
 
 Other changes:
 
--   chore: update package dependencies
+- chore: update package dependencies
 
 [Compare with the previous release: v3.11.55 ... v3.11.56](https://github.com/zerocluster/nginx/compare/v3.11.55...v3.11.56)
 
@@ -63,7 +63,7 @@ No notable changes since the previous release.
 
 Fixes:
 
--   fix: dependabot
+- fix: dependabot
 
 ### 3.11.51 (2024-10-02)
 
@@ -73,13 +73,13 @@ No notable changes since the previous release.
 
 Fixes:
 
--   fix: app
+- fix: app
 
 ### 3.11.49 (2024-09-15)
 
 Fixes:
 
--   fix: app
+- fix: app
 
 ### 3.11.48 (2024-09-13)
 
@@ -93,13 +93,13 @@ No notable changes since the previous release.
 
 Fixes:
 
--   fix: editor config
+- fix: editor config
 
 ### 3.11.45 (2024-09-02)
 
 Fixes:
 
--   fix: docs config
+- fix: docs config
 
 ### 3.11.44 (2024-08-31)
 
@@ -121,858 +121,858 @@ No notable changes since the previous release.
 
 Fixes:
 
--   fix: .softvisio-cli.yaml renamed to .cli.yaml
+- fix: .softvisio-cli.yaml renamed to .cli.yaml
 
 ### 3.11.39 (2024-08-08)
 
 Fixes:
 
--   fix: dependencies update
+- fix: dependencies update
 
 ### 3.11.38 (2024-08-01)
 
 Fixes:
 
--   fix: docker-compose renamed to compose.yaml
+- fix: docker-compose renamed to compose.yaml
 
 ### 3.11.37 (2024-08-01)
 
 Fixes:
 
--   fix: deps
--   fix: docker depends_on
+- fix: deps
+- fix: docker depends_on
 
 ### 3.11.36 (2024-07-30)
 
 Fixes:
 
--   fix: deps
--   fix: docker stack network
+- fix: deps
+- fix: docker stack network
 
 ### 3.11.35 (2024-07-28)
 
 Fixes:
 
--   fix: deps
+- fix: deps
 
 ### 3.11.34 (2024-07-26)
 
 Fixes:
 
--   fix: deps
--   fix: package lock added
+- fix: deps
+- fix: package lock added
 
 ### 3.11.33 (2024-07-25)
 
 Fixes:
 
--   fix: docker compose schema
+- fix: docker compose schema
 
 ### 3.11.32 (2024-07-24)
 
 Fixes:
 
--   fix: compose file version removed
+- fix: compose file version removed
 
 ### 3.11.31 (2024-07-24)
 
 Fixes:
 
--   fix: stack network
+- fix: stack network
 
 ### 3.11.30 (2024-07-23)
 
 Fixes:
 
--   fix: swarm update script
+- fix: swarm update script
 
 ### 3.11.29 (2024-06-04)
 
 Fixes:
 
--   fix: config
+- fix: config
 
 ### 3.11.28 (2024-05-29)
 
 Fixes:
 
--   fix: email address
+- fix: email address
 
 ### 3.11.27 (2024-05-14)
 
 Fixes:
 
--   fix: nginx config
+- fix: nginx config
 
 ### 3.11.26 (2024-05-14)
 
 Fixes:
 
--   fix: nginx config
+- fix: nginx config
 
 ### 3.11.25 (2024-05-13)
 
 Fixes:
 
--   fix: nginx config build
+- fix: nginx config build
 
 ### 3.11.24 (2024-05-03)
 
 Fixes:
 
--   fix: storage component removed
+- fix: storage component removed
 
 ### 3.11.23 (2024-04-30)
 
 Fixes:
 
--   fix: nginx trusted subnets
+- fix: nginx trusted subnets
 
 ### 3.11.22 (2024-04-29)
 
 Fixes:
 
--   fix: nginx trusted subnets
+- fix: nginx trusted subnets
 
 ### 3.11.21 (2024-04-29)
 
 Fixes:
 
--   fix: nginx trusted subnets
+- fix: nginx trusted subnets
 
 ### 3.11.20 (2024-04-28)
 
 Fixes:
 
--   fix: nginx trusted subnets
+- fix: nginx trusted subnets
 
 ### 3.11.19 (2024-04-25)
 
 Fixes:
 
--   fix: docer args
+- fix: docer args
 
 ### 3.11.18 (2024-04-25)
 
 Fixes:
 
--   fix: docer args
+- fix: docer args
 
 ### 3.11.17 (2024-04-24)
 
 Fixes:
 
--   fix: cli config docker schema
+- fix: cli config docker schema
 
 ### 3.11.16 (2024-04-24)
 
 Fixes:
 
--   fix: nginx stable
+- fix: nginx stable
 
 ### 3.11.15 (2024-04-22)
 
 Fixes:
 
--   fix: nginx real ip
+- fix: nginx real ip
 
 ### 3.11.14 (2024-04-22)
 
 Fixes:
 
--   fix: nginx stable
+- fix: nginx stable
 
 ### 3.11.13 (2024-04-21)
 
 Fixes:
 
--   fix: nginx stable
+- fix: nginx stable
 
 ### 3.11.12 (2024-04-21)
 
 Fixes:
 
--   fix: nginx stable
+- fix: nginx stable
 
 ### 3.11.11 (2024-04-21)
 
 Fixes:
 
--   fix: nginx stable
+- fix: nginx stable
 
 ### 3.11.10 (2024-04-21)
 
 Fixes:
 
--   fix: nginx stable
+- fix: nginx stable
 
 ### 3.11.9 (2024-04-21)
 
 Fixes:
 
--   fix: nginx mainline
+- fix: nginx mainline
 
 ### 3.11.8 (2024-04-15)
 
 Fixes:
 
--   fix: docs
+- fix: docs
 
 ### 3.11.7 (2024-04-03)
 
 Fixes:
 
--   fix: nginx stable
+- fix: nginx stable
 
 ### 3.11.6 (2024-01-25)
 
 Fixes:
 
--   fix: focker config secrets
+- fix: focker config secrets
 
 ### 3.11.5 (2024-01-06)
 
 Fixes:
 
--   fix: nginx config
+- fix: nginx config
 
 ### 3.11.4 (2023-12-26)
 
 Fixes:
 
--   fix: nginx
+- fix: nginx
 
 ### 3.11.3 (2023-12-19)
 
 Fixes:
 
--   fix: nginx config
+- fix: nginx config
 
 ### 3.11.2 (2023-12-17)
 
 Fixes:
 
--   fix: nginx acme
+- fix: nginx acme
 
 ### 3.11.1 (2023-12-17)
 
 Fixes:
 
--   fix: nginx acme
+- fix: nginx acme
 
 ### 3.11.0 (2023-12-17)
 
 Features:
 
--   feat: nginx acme
+- feat: nginx acme
 
 ### 3.10.4 (2023-11-08)
 
 Fixes:
 
--   fix: docker npm env
+- fix: docker npm env
 
 ### 3.10.3 (2023-10-20)
 
 Fixes:
 
--   fix: package repo url
+- fix: package repo url
 
 ### 3.10.2 (2023-10-01)
 
 Fixes:
 
--   fix: cli
+- fix: cli
 
 ### 3.10.1 (2023-09-01)
 
 Fixes:
 
--   fix: gcloud
+- fix: gcloud
 
 ### 3.10.0 (2023-08-08)
 
 Features:
 
--   feat: nginx rpc
+- feat: nginx rpc
 
 ### 3.9.3 (2023-08-06)
 
 Fixes:
 
--   fix: docs
+- fix: docs
 
 ### 3.9.2 (2023-08-05)
 
 Fixes:
 
--   fix: use nginx
+- fix: use nginx
 
 ### 3.9.1 (2023-08-04)
 
 Fixes:
 
--   fix: tengine
+- fix: tengine
 
 ### 3.9.0 (2023-08-04)
 
 Features:
 
--   feat: nginx component
+- feat: nginx component
 
 Fixes:
 
--   fix: ajv formats
--   fix: docker entrypoint
+- fix: ajv formats
+- fix: docker entrypoint
 
 ### 3.8.5 (2023-07-31)
 
 Fixes:
 
--   fix: .dockerignore
+- fix: .dockerignore
 
 ### 3.8.4 (2023-07-30)
 
 Fixes:
 
--   fix: .dockerignore
+- fix: .dockerignore
 
 ### 3.8.3 (2023-07-29)
 
 Fixes:
 
--   fix: app schema
+- fix: app schema
 
 ### 3.8.2 (2023-07-29)
 
 Fixes:
 
--   fix: docker build
+- fix: docker build
 
 ### 3.8.1 (2023-07-29)
 
 Fixes:
 
--   fix: ports
+- fix: ports
 
 ### 3.8.0 (2023-07-28)
 
 Features:
 
--   feat: nginx component
+- feat: nginx component
 
 ### 3.7.3 (2023-07-28)
 
 Fixes:
 
--   fix: docker build refactored
+- fix: docker build refactored
 
 ### 3.7.2 (2023-07-26)
 
 Fixes:
 
--   fix: config
+- fix: config
 
 ### 3.7.1 (2023-07-26)
 
 Fixes:
 
--   fix: config
+- fix: config
 
 ### 3.7.0 (2023-07-26)
 
 Features:
 
--   feat: nginx component
+- feat: nginx component
 
 ### 3.6.7 (2023-07-25)
 
 Fixes:
 
--   fix: docker stack
+- fix: docker stack
 
 ### 3.6.6 (2023-07-06)
 
 Fixes:
 
--   fix: linted
+- fix: linted
 
 ### 3.6.5 (2023-07-03)
 
 Fixes:
 
--   fix: app start
+- fix: app start
 
 ### 3.6.4 (2023-07-01)
 
 Fixes:
 
--   fix: app env
+- fix: app env
 
 ### 3.6.3 (2023-07-01)
 
 Fixes:
 
--   fix: data location
+- fix: data location
 
 ### 3.6.2 (2023-07-01)
 
 Fixes:
 
--   fix: data location
+- fix: data location
 
 ### 3.6.1 (2023-06-15)
 
 Fixes:
 
--   fix: migrate to the new glob
+- fix: migrate to the new glob
 
 ### 3.6.0 (2023-06-13)
 
 Features:
 
--   feat: App.run()
+- feat: App.run()
 
 ### 3.5.11 (2023-06-10)
 
 Fixes:
 
--   fix: docker command
+- fix: docker command
 
 ### 3.5.10 (2023-06-10)
 
 Fixes:
 
--   fix: docker command
+- fix: docker command
 
 ### 3.5.9 (2023-06-10)
 
 Fixes:
 
--   fix: app cli
+- fix: app cli
 
 ### 3.5.8 (2023-06-06)
 
 Fixes:
 
--   fix: app configs
+- fix: app configs
 
 ### 3.5.7 (2023-06-04)
 
 Fixes:
 
--   fix: health check
+- fix: health check
 
 ### 3.5.6 (2023-06-04)
 
 Fixes:
 
--   fix: app init
+- fix: app init
 
 ### 3.5.5 (2023-06-01)
 
 Fixes:
 
--   fix: events
+- fix: events
 
 ### 3.5.4 (2023-05-29)
 
 Fixes:
 
--   fix: components
--   fix: docker stack schema
+- fix: components
+- fix: docker stack schema
 
 ### 3.5.3 (2023-04-22)
 
 Fixes:
 
--   fix: shutdown
+- fix: shutdown
 
 ### 3.5.2 (2023-04-22)
 
 Fixes:
 
--   fix: api/rpc stop
--   fix: app main script
--   fix: shutdown
+- fix: api/rpc stop
+- fix: app main script
+- fix: shutdown
 
 ### 3.5.1 (2023-04-15)
 
 Fixes:
 
--   fix: shutdown
+- fix: shutdown
 
 ### 3.5.0 (2023-04-15)
 
 Features:
 
--   feat: shutdown refactored
+- feat: shutdown refactored
 
 ### 3.4.0 (2023-04-15)
 
 Features:
 
--   feat: shutdown refactored
+- feat: shutdown refactored
 
 ### 3.3.6 (2023-01-24)
 
 Fixes:
 
--   fix: git repo relocated
+- fix: git repo relocated
 
 ### 3.3.5 (2022-12-22)
 
 Fixes:
 
--   fix: app refactored
--   fix: deps
+- fix: app refactored
+- fix: deps
 
 ### 3.3.4 (2022-09-14)
 
 Fixes:
 
--   fix: scripts urls
+- fix: scripts urls
 
 ### 3.3.3 (2022-05-27)
 
 Fixes:
 
--   fix: uws header removed
+- fix: uws header removed
 
 ### 3.3.2 (2022-05-21)
 
 Fixes:
 
--   fix: 1080 port added
--   fix: port 8099
--   fix: ports
+- fix: 1080 port added
+- fix: port 8099
+- fix: ports
 
 ### 3.3.1 (2022-05-21)
 
 Fixes:
 
--   fix: shutdown
+- fix: shutdown
 
 ### 3.3.0 (2022-05-21)
 
 Features:
 
--   feat: process shutdown controller
+- feat: process shutdown controller
 
 ### 3.2.21 (2022-05-19)
 
 Fixes:
 
--   fix: apt replaced with apt-get
+- fix: apt replaced with apt-get
 
 ### 3.2.20 (2022-05-17)
 
 Fixes:
 
--   fix: httpProxyCacheBypass option
+- fix: httpProxyCacheBypass option
 
 ### 3.2.19 (2022-05-17)
 
 Fixes:
 
--   fix: proxy protocol removed
+- fix: proxy protocol removed
 
 ### 3.2.18 (2022-05-17)
 
 Fixes:
 
--   fix: nginx.http.proxy-cache-bypass options
--   fix: template vars
+- fix: nginx.http.proxy-cache-bypass options
+- fix: template vars
 
 ### 3.2.17 (2022-05-17)
 
 Fixes:
 
--   fix: proxy cache bypass
+- fix: proxy cache bypass
 
 ### 3.2.16 (2022-05-17)
 
 Fixes:
 
--   fix: service options validation
+- fix: service options validation
 
 ### 3.2.15 (2022-05-17)
 
 Fixes:
 
--   fix: errors reporting
--   fix: service options validation
+- fix: errors reporting
+- fix: service options validation
 
 ### 3.2.14 (2022-05-17)
 
 Fixes:
 
--   fix: service options validation
+- fix: service options validation
 
 ### 3.2.13 (2022-05-17)
 
 Fixes:
 
--   fix: gcloud
--   fix: service options validation
--   fix: upstream cache status
+- fix: gcloud
+- fix: service options validation
+- fix: upstream cache status
 
 ### 3.2.12 (2022-05-16)
 
 Fixes:
 
--   fix: X-Upstream-Cache-Status header
+- fix: X-Upstream-Cache-Status header
 
 ### 3.2.11 (2022-05-16)
 
 Fixes:
 
--   fix: gzip disabled
--   fix: proxy cache methods
+- fix: gzip disabled
+- fix: proxy cache methods
 
 ### 3.2.10 (2022-05-11)
 
 Fixes:
 
--   fix: docker config
+- fix: docker config
 
 ### 3.2.9 (2022-05-11)
 
 Fixes:
 
--   fix: postgress port publish
+- fix: postgress port publish
 
 ### 3.2.8 (2022-05-11)
 
 Fixes:
 
--   fix: do not publish 443 port
+- fix: do not publish 443 port
 
 ### 3.2.7 (2022-05-11)
 
 Fixes:
 
--   fix: strict transport security removed
+- fix: strict transport security removed
 
 ### 3.2.6 (2022-05-11)
 
 Fixes:
 
--   fix: app schema env
+- fix: app schema env
 
 ### 3.2.5 (2022-05-10)
 
 Fixes:
 
--   fix: app env schema
--   fix: proxy protocol disabled
+- fix: app env schema
+- fix: proxy protocol disabled
 
 ### 3.2.4 (2022-05-09)
 
 Fixes:
 
--   fix: add x-forwarded-for
+- fix: add x-forwarded-for
 
 ### 3.2.3 (2022-05-09)
 
 Fixes:
 
--   fix: healthcheck location for gcloud load balancer
+- fix: healthcheck location for gcloud load balancer
 
 ### 3.2.2 (2022-05-09)
 
 Fixes:
 
--   fix: ssl removed
+- fix: ssl removed
 
 ### 3.2.1 (2022-05-08)
 
 Fixes:
 
--   fix: proxy protocol
+- fix: proxy protocol
 
 ### 3.2.0 (2022-05-08)
 
 Features:
 
--   feat: proxy protocol
+- feat: proxy protocol
 
 Fixes:
 
--   fix: gzip min length 512k
--   fix: resolver disabled
--   fix: X-Forwarded-Proto removed
+- fix: gzip min length 512k
+- fix: resolver disabled
+- fix: X-Forwarded-Proto removed
 
 ### 3.1.16 (2022-04-23)
 
 Fixes:
 
--   fix: dns watcher
--   fix: docker entry point script
--   fix: exit with nginx exit code
--   fix: ip address family setting
--   fix: spawn serveer
+- fix: dns watcher
+- fix: docker entry point script
+- fix: exit with nginx exit code
+- fix: ip address family setting
+- fix: spawn serveer
 
 ### 3.1.15 (2022-04-19)
 
 Fixes:
 
--   fix: docker github label removed
+- fix: docker github label removed
 
 ### 3.1.14 (2022-04-18)
 
 Fixes:
 
--   fix: dockerfile label
+- fix: dockerfile label
 
 ### 3.1.13 (2022-04-18)
 
 Fixes:
 
--   fix: docker migrated to github
+- fix: docker migrated to github
 
 ### 3.1.12 (2022-04-08)
 
 Fixes:
 
--   fix: method name
+- fix: method name
 
 ### 3.1.11 (2022-04-08)
 
 Fixes:
 
--   fix: docker nginx labels
--   fix: use name instead of id
+- fix: docker nginx labels
+- fix: use name instead of id
 
 ### 3.1.10 (2022-04-08)
 
 Fixes:
 
--   fix: refactor
--   fix: typo
+- fix: refactor
+- fix: typo
 
 ### 3.1.9 (2022-03-31)
 
 Fixes:
 
--   fix: network renamed to main
+- fix: network renamed to main
 
 ### 3.1.8 (2022-03-31)
 
 Fixes:
 
--   fix: docker stack network added
+- fix: docker stack network added
 
 ### 3.1.7 (2022-03-30)
 
 Fixes:
 
--   fix: docker stack use ingress network
+- fix: docker stack use ingress network
 
 ### 3.1.6 (2022-03-29)
 
 Fixes:
 
--   fix: peers log
+- fix: peers log
 
 ### 3.1.5 (2022-03-29)
 
 Fixes:
 
--   fix: peers log
+- fix: peers log
 
 ### 3.1.4 (2022-03-29)
 
 Fixes:
 
--   fix: nginx stream config
+- fix: nginx stream config
 
 ### 3.1.3 (2022-03-29)
 
 Fixes:
 
--   fix: split stream and http configs
+- fix: split stream and http configs
 
 ### 3.1.2 (2022-03-29)
 
 Fixes:
 
--   fix: nginx config
+- fix: nginx config
 
 ### 3.1.1 (2022-03-29)
 
 Fixes:
 
--   fix: server name processing
+- fix: server name processing
 
 ### 3.1.0 (2022-03-29)
 
 Features:
 
--   feat: stream
+- feat: stream
 
 ### 3.0.10 (2022-02-21)
 
 Fixes:
 
--   fix: metadata update
--   fix: solid font awesome
+- fix: metadata update
+- fix: solid font awesome
 
 ### 3.0.9 (2022-02-19)
 
 Fixes:
 
--   fix: x-forwarded-proto
+- fix: x-forwarded-proto
 
 ### 3.0.8 (2022-02-19)
 
 Fixes:
 
--   fix: host mode for docker ports
+- fix: host mode for docker ports
 
 ### 3.0.7 (2022-02-12)
 
 Fixes:
 
--   fix: docker-stack.yaml renamed
+- fix: docker-stack.yaml renamed
 
 ### 3.0.6 (2022-02-11)
 
 Fixes:
 
--   fix: app env schema added
--   fix: migrated to app
+- fix: app env schema added
+- fix: migrated to app
 
 ### 3.0.5 (2022-02-08)
 
 Fixes:
 
--   fix: package scripts
+- fix: package scripts
 
 ### 3.0.4 (2022-02-08)
 
 Fixes:
 
--   fix: docker environment
--   fix: docs
+- fix: docker environment
+- fix: docs
 
 ### 3.0.3 (2021-12-12)
 
 Fixes:
 
--   fix: mount rpc to /api
+- fix: mount rpc to /api
 
 ### 3.0.2 (2021-12-12)
 
 Fixes:
 
--   fix: docker healthcheck
+- fix: docker healthcheck
 
 ### 3.0.1 (2021-11-18)
 
 Fixes:
 
--   fix: dockerfile
+- fix: dockerfile
 
 ### 3.0.0 (2021-11-16)
 
@@ -984,7 +984,7 @@ Migration:
 
 Fixes:
 
--   fix: dockerfile
+- fix: dockerfile
 
 Migration:
 
@@ -992,7 +992,7 @@ Migration:
 
 Features:
 
--   feat: dev script
+- feat: dev script
 
 Migration:
 
@@ -1000,7 +1000,7 @@ Migration:
 
 Fixes:
 
--   fix: json stream
+- fix: json stream
 
 Migration:
 
@@ -1008,7 +1008,7 @@ Migration:
 
 Fixes:
 
--   fix: typo
+- fix: typo
 
 Migration:
 
@@ -1016,7 +1016,7 @@ Migration:
 
 Breaking changes:
 
--   feat!: new docker engine driver
+- feat!: new docker engine driver
 
 Migration:
 
@@ -1028,7 +1028,7 @@ No notable changes since the previous release.
 
 Features:
 
--   feat: moved to the zerocluster namespace
+- feat: moved to the zerocluster namespace
 
 ### 2.5.22 (2021-10-02)
 
@@ -1038,13 +1038,13 @@ No notable changes since the previous release.
 
 Fixes:
 
--   fix: config files renamed
+- fix: config files renamed
 
 ### 2.5.20 (2021-09-26)
 
 Fixes:
 
--   fix: invalid import
+- fix: invalid import
 
 ### 2.5.19 (2021-09-24)
 
@@ -1054,20 +1054,20 @@ No notable changes since the previous release.
 
 Fixes:
 
--   fix: docker devel tag removed
--   fix: package renamed
+- fix: docker devel tag removed
+- fix: package renamed
 
 ### 2.5.17 (2021-09-12)
 
 Fixes:
 
--   fix: docker autobuild_tags renamed to auto_tags
+- fix: docker autobuild_tags renamed to auto_tags
 
 ### 2.5.16 (2021-09-07)
 
 Fixes:
 
--   fix: docker autobuild tags
+- fix: docker autobuild tags
 
 ### 2.5.15 (2021-09-06)
 
@@ -1077,333 +1077,333 @@ No significant changes since the previous release
 
 Fixes:
 
--   fix: dockerfile cleanup
+- fix: dockerfile cleanup
 
 ### 2.5.13 (2021-08-30)
 
 Changed:
 
--   docker base image changed to softvisio/node
+- docker base image changed to softvisio/node
 
 ### 2.5.12 (2021-07-05)
 
 Fixed:
 
--   docker stack databases volume removed
+- docker stack databases volume removed
 
 ### 2.5.11 (2021-07-05)
 
 Fixed:
 
--   code improvements
+- code improvements
 
 ### 2.5.10 (2021-06-22)
 
 Changed:
 
--   tmpl -> templates;
--   moved to github;
+- tmpl -> templates;
+- moved to github;
 
 Fixed:
 
--   changelog updated;
+- changelog updated;
 
 ### 2.5.9 (2021-06-01)
 
 Changed:
 
--   lint config removed;
+- lint config removed;
 
 ### 2.5.8 (2021-05-19)
 
 Changed:
 
--   lint script removed;
+- lint script removed;
 
 ### 2.5.7 (2021-04-25)
 
 Changed:
 
--   nginx mainline -> latest;
+- nginx mainline -> latest;
 
 ### 2.5.6 (2021-04-17)
 
 Changed:
 
--   ported to modules;
+- ported to modules;
 
 ### 2.5.5 (2021-04-01)
 
 Changed:
 
--   volume name fixed;
+- volume name fixed;
 
 ### 2.5.4 (2021-04-01)
 
 Changed:
 
--   maxmind renamed to databases;
+- maxmind renamed to databases;
 
 ### 2.5.3 (2021-03-31)
 
 Changed:
 
--   lint pattern updated;
+- lint pattern updated;
 
 ### 2.5.2 (2021-03-15)
 
 Changed:
 
--   package renamed;
+- package renamed;
 
 ### 2.5.1 (2021-03-15)
 
 Changed:
 
--   docker tags updated;
+- docker tags updated;
 
 ### 2.5.0 (2021-03-15)
 
 Changed:
 
--   config files renamed;
+- config files renamed;
 
 ### 2.4.2 (2021-03-15)
 
 Changed:
 
--   shared memory fix;
+- shared memory fix;
 
 ### 2.4.1 (2021-03-14)
 
 Changed:
 
--   contrib dir removed;
+- contrib dir removed;
 
 ### 2.4.0 (2021-03-14)
 
 Changed:
 
--   env updated;
--   docker stack hostname removed;
+- env updated;
+- docker stack hostname removed;
 
 ### 2.3.1 (2021-03-13)
 
 Changed:
 
--   services reload fixed;
+- services reload fixed;
 
 ### 2.3.0 (2021-03-13)
 
 Changed:
 
--   more configuretion settings added;
--   nginx server name label changed;
+- more configuretion settings added;
+- nginx server name label changed;
 
 ### 2.2.1 (2021-03-11)
 
 Changed:
 
--   labels compare fix;
+- labels compare fix;
 
 ### 2.2.0 (2021-03-11)
 
 Changed:
 
--   dynamic peers;
+- dynamic peers;
 
 ### 2.1.0 (2021-03-10)
 
 Changed:
 
--   dynamic upstreams support removed;
--   disable healthcheck;
--   docker stack updated;
+- dynamic upstreams support removed;
+- disable healthcheck;
+- docker stack updated;
 
 ### 2.0.8 (2021-03-10)
 
 Changed:
 
--   docker-compose.yaml renamed to docker-stack.yaml;
+- docker-compose.yaml renamed to docker-stack.yaml;
 
 ### 2.0.7 (2021-03-09)
 
 Changed:
 
--   cache remove fixed;
+- cache remove fixed;
 
 ### 2.0.6 (2021-03-09)
 
 Changed:
 
--   remove cache for destroyed services;
--   upstream settings updated;
+- remove cache for destroyed services;
+- upstream settings updated;
 
 ### 2.0.5 (2021-03-08)
 
 Changed:
 
--   docker-compose.yaml shebang added;
+- docker-compose.yaml shebang added;
 
 ### 2.0.4 (2021-03-08)
 
 Changed:
 
--   volume name fixed;
--   deploy instructions added;
+- volume name fixed;
+- deploy instructions added;
 
 ### 2.0.3 (2021-03-08)
 
 Changed:
 
--   deploy instructions added;
--   build tags updated;
+- deploy instructions added;
+- build tags updated;
 
 ### 2.0.2 (2021-03-08)
 
 Changed:
 
--   make package private;
+- make package private;
 
 ### 2.0.1 (2021-03-08)
 
 Changed:
 
--   build tasg updated;
+- build tasg updated;
 
 ### 2.0.0 (2021-03-08)
 
 Changed:
 
--   swarm loadbalancer;
+- swarm loadbalancer;
 
 ### 1.1.1 (2021-03-03)
 
 Changed:
 
--   template path fixed;
+- template path fixed;
 
 ### 1.1.0 (2021-03-03)
 
 Changed:
 
--   package published;
--   load balancer config template added;
--   package renamed;
--   vhosts methods added;
+- package published;
+- load balancer config template added;
+- package renamed;
+- vhosts methods added;
 
 ### 1.0.2 (2021-02-17)
 
 Changed:
 
--   package-lock removed;
+- package-lock removed;
 
 ### 1.0.1 (2021-02-11)
 
 Changed:
 
--   use docker-wrapper script;
--   deps updated;
+- use docker-wrapper script;
+- deps updated;
 
 ### 1.0.0 (2021-02-02)
 
--   stable release;
+- stable release;
 
 ### 0.9.1 (2021-01-27)
 
--   deps updated
+- deps updated
 
 ### 0.9.0 (2021-01-26)
 
--   migrated to node v15
+- migrated to node v15
 
 ### 0.8.0 (2021-01-23)
 
--   log messages updated
--   nginx config updated
--   nginx location set to /var/lib
+- log messages updated
+- nginx config updated
+- nginx location set to /var/lib
 
 ### 0.7.1 (2021-01-22)
 
--   do not override default vhost config
+- do not override default vhost config
 
 ### 0.7.0 (2020-11-30)
 
--   default vhost renamed
+- default vhost renamed
 
 ### 0.6.1 (2020-11-16)
 
--   docker mirrors updated
+- docker mirrors updated
 
 ### 0.6.0 (2020-10-22)
 
--   docker tags updated
+- docker tags updated
 
 ### 0.5.0 (2020-10-01)
 
--   docker --init
+- docker --init
 
 ### 0.4.10 (2020-09-19)
 
--   docker mirrors
+- docker mirrors
 
 ### 0.4.9 (2020-09-18)
 
--   docker mirrors added
+- docker mirrors added
 
 ### 0.4.8 (2020-09-05)
 
--   deps updated
+- deps updated
 
 ### 0.4.7 (2020-08-07)
 
--   shrinkwrap replaced with package-lock
--   .eslintrc.yaml removed
+- shrinkwrap replaced with package-lock
+- .eslintrc.yaml removed
 
 ### 0.4.6 (2020-08-03)
 
--   npm-shrinkwrap.json version updated
+- npm-shrinkwrap.json version updated
 
 ### 0.4.5 (2020-08-03)
 
--   shrinkwrap added
+- shrinkwrap added
 
 ### 0.4.4 (2020-07-31)
 
--   vhost renamed to vhosts
+- vhost renamed to vhosts
 
 ### 0.4.3 (2020-07-31)
 
--   create cache dir on startup
+- create cache dir on startup
 
 ### 0.4.2 (2020-07-30)
 
--   docker remove npm cache
+- docker remove npm cache
 
 ### 0.4.1 (2020-07-21)
 
--   hide uWebSockets header
+- hide uWebSockets header
 
 ### 0.4.0 (2020-07-19)
 
--   proxy cache fixed
--   nginx config updated
--   docker always restart unless stopped
--   gzip types fixed
+- proxy cache fixed
+- nginx config updated
+- docker always restart unless stopped
+- gzip types fixed
 
 ### 0.3.0 (2020-07-18)
 
--   nginx confing updated
--   .sh ext removed from docker wrapper
--   moved common dockerfile instructions to the base image
--   project location in docker renamed to /var/local/dist
--   docker CONTAINER_NAME var added
+- nginx confing updated
+- .sh ext removed from docker wrapper
+- moved common dockerfile instructions to the base image
+- project location in docker renamed to /var/local/dist
+- docker CONTAINER_NAME var added
 
 ### 0.2.0 (2020-07-18)
 
--   test configs before reload
--   ejs sync render
+- test configs before reload
+- ejs sync render
 
 ### 0.1.0 (2020-07-17)
 
--   init
+- init

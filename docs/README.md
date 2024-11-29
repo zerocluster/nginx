@@ -44,8 +44,8 @@ apt update && apt install -y htop mc nginx-latest && npx update-core
 
 ### nginx.http.server-name
 
--   Type: {string}
--   Default: `""`
+- Type: {string}
+- Default: `""`
 
 <https://nginx.org/en/docs/http/server_names.html>.
 
@@ -55,8 +55,8 @@ Sets names of a virtual server. If no server names are provided service will be 
 
 ### nginx.http.max-body-size
 
--   Type: {string}
--   Default: `"10m"`
+- Type: {string}
+- Default: `"10m"`
 
 <https://nginx.org/en/docs/http/ngx_http_core_module.html#client_max_body_size>.
 
@@ -64,15 +64,15 @@ Sets the maximum allowed size of the client request body. If the size in a reque
 
 ### nginx.http.cache.enabled
 
--   Type: {string}
--   Default: `"true"`
+- Type: {string}
+- Default: `"true"`
 
 Enable HTTP cache.
 
 ### nginx.http.cache.max-size
 
--   Type: {string}
--   Default: `"10g"`
+- Type: {string}
+- Default: `"10g"`
 
 <https://nginx.org/en/docs/http/ngx_http_proxy_module.html#proxy_cache_path>.
 
@@ -80,8 +80,8 @@ Maximum cache size. When the size is exceeded, it removes the least recently use
 
 ### nginx.http.cache.inactive
 
--   Type: {string}
--   Default: `"1w"`
+- Type: {string}
+- Default: `"1w"`
 
 <https://nginx.org/en/docs/http/ngx_http_proxy_module.html#proxy_cache_path>.
 
@@ -89,8 +89,8 @@ Cached data that are not accessed during the time specified by the inactive para
 
 ### nginx.stream.port
 
--   Type: {integer}
--   Default: `null`
+- Type: {integer}
+- Default: `null`
 
 Stream port.
 
@@ -104,14 +104,14 @@ Offsets may be also specified in gigabytes using `"g"` or `"G"` suffixes.
 
 Time intervals can be specified in milliseconds, seconds, minutes, hours, days and so on, using the following suffixes:
 
--   `"ms"` milliseconds
--   `"s"` seconds
--   `"m"` minutes
--   `"h"` hours
--   `"d"` days
--   `"w"` weeks
--   `"M"` months, 30 days
--   `"y"` years, 365 days
+- `"ms"` milliseconds
+- `"s"` seconds
+- `"m"` minutes
+- `"h"` hours
+- `"d"` days
+- `"w"` weeks
+- `"M"` months, 30 days
+- `"y"` years, 365 days
 
 Multiple units can be combined in a single value by specifying them in the order from the most to the least significant, and optionally separated by whitespace. For example, “1h 30m” specifies the same time as “90m” or “5400s”. A value without a suffix means seconds. It is recommended to always specify a suffix.
 
