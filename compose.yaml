@@ -3,47 +3,47 @@
 # docker service update --label-add nginx.http.server-name=www.example.com <SERVICE-NAME>
 
 services:
-  nginx:
-    image: ghcr.io/zerocluster/nginx
-    depends_on: [postgresql]
-    init: true
-    stop_grace_period: 5m
+    nginx:
+        image: ghcr.io/zerocluster/nginx
+        depends_on: [postgresql]
+        init: true
+        stop_grace_period: 5m
 
-    deploy:
-      replicas: 1
-      placement:
-        max_replicas_per_node: 1
-        constraints:
-          - "node.role == manager"
-          - "node.labels.nginx == true"
+        deploy:
+            replicas: 1
+            placement:
+                max_replicas_per_node: 1
+                constraints:
+                    - "node.role == manager"
+                    - "node.labels.nginx == true"
 
-    command: run
+        command: run
 
-    secrets:
-      - { source: nginx_env.yaml, target: /var/local/package/env.yaml }
+        secrets:
+            - { source: nginx_env.yaml, target: /var/local/package/env.yaml }
 
-    networks: [network]
+        networks: [network]
 
-    ports:
-      - { published: 80, target: 80, mode: host }
-      - { published: 443, target: 443, mode: host }
-      # - { published: 8085, target: 8085, mode: host }
+        ports:
+            - { published: 80, target: 80, mode: host }
+            - { published: 443, target: 443, mode: host }
+            # - { published: 8085, target: 8085, mode: host }
 
-    volumes:
-      - { type: tmpfs, target: /dev/shm, tmpfs: { size: 1073741824 } }
-      - { type: bind, source: /var/run/docker.sock, target: /var/run/docker.sock }
-      - { type: volume, source: nginx, target: /var/local/package/data }
+        volumes:
+            - { type: tmpfs, target: /dev/shm, tmpfs: { size: 1073741824 } }
+            - { type: bind, source: /var/run/docker.sock, target: /var/run/docker.sock }
+            - { type: volume, source: nginx, target: /var/local/package/data }
 
-    build:
-      context: .
-      args:
-        NGINX_VERSION: stable
+        build:
+            context: .
+            args:
+                NGINX_VERSION: stable
 
 secrets:
-  nginx_env.yaml: { file: env.yaml }
+    nginx_env.yaml: { file: env.yaml }
 
 networks:
-  network: ~
+    network: ~
 
 volumes:
-  nginx: ~
+    nginx: ~
