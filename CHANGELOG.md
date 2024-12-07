@@ -1,5 +1,14 @@
 # Changelog
 
+### 3.11.63 (2024-12-07)
+
+Other changes:
+
+- chore: set yaml indent to 4 spaces
+- chore: update package dependencies
+
+[Compare with the previous release: v3.11.62 ... v3.11.63](https://github.com/zerocluster/nginx/compare/v3.11.62...v3.11.63)
+
 ### 3.11.62 (2024-12-06)
 
 Other changes:
