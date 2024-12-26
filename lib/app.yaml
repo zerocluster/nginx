@@ -15,6 +15,7 @@ components:
 
         acme:
             enabled: true
+            useLocalStorage: false
 
         setRealIpFrom: [local, cloudflare, google-cloud-load-balancers]
         realIpHeader: x-forwarded-for
