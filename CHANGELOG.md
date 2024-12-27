@@ -1,5 +1,14 @@
 # Changelog
 
+### 3.11.64 (2024-12-27)
+
+Other changes:
+
+- chore: set useLocalStorage to false by default
+- chore: update package dependencies
+
+[Compare with the previous release: v3.11.63 ... v3.11.64](https://github.com/zerocluster/nginx/compare/v3.11.63...v3.11.64)
+
 ### 3.11.63 (2024-12-07)
 
 Other changes:
