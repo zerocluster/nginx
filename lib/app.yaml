@@ -4,6 +4,7 @@ dependencies:
 services:
     server:
         components:
+            acme: true
             nginx: true
             rpc: true
 
@@ -11,6 +12,7 @@ defaultService: server
 
 components:
     acme:
+        httpEnabled: true
         useLocalStorage: false
 
     nginx:
