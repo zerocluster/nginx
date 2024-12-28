@@ -1,5 +1,17 @@
 # Changelog
 
+### 3.12.0 (2024-12-28)
+
+Features:
+
+- feat: add acme component
+
+Other changes:
+
+- chore: update package dependencies
+
+[Compare with the previous release: v3.11.64 ... v3.12.0](https://github.com/zerocluster/nginx/compare/v3.11.64...v3.12.0)
+
 ### 3.11.64 (2024-12-27)
 
 Other changes:
