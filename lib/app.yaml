@@ -10,13 +10,11 @@ services:
 defaultService: server
 
 components:
+    acme:
+        useLocalStorage: false
+
     nginx:
         dockerEnabled: true
-
-        acme:
-            enabled: true
-            useLocalStorage: false
-
         setRealIpFrom: [local, cloudflare, google-cloud-load-balancers]
         realIpHeader: x-forwarded-for
 
