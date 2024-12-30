@@ -1,5 +1,13 @@
 # Changelog
 
+### 3.12.2 (2024-12-30)
+
+Other changes:
+
+- chore: update package dependencies
+
+[Compare with the previous release: v3.12.1 ... v3.12.2](https://github.com/zerocluster/nginx/compare/v3.12.1...v3.12.2)
+
 ### 3.12.1 (2024-12-30)
 
 Other changes:
