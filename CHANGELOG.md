@@ -1,5 +1,13 @@
 # Changelog
 
+### 3.12.10 (2025-01-12)
+
+Other changes:
+
+- chore: update nginx ssl settings
+
+Compare with the previous release: [`v3.12.9...v3.12.10`](https://github.com/zerocluster/nginx/compare/v3.12.9...v3.12.10)
+
 ### 3.12.9 (2025-01-11)
 
 Other changes:
