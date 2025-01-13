@@ -37,7 +37,7 @@ services:
         build:
             context: .
             args:
-                NGINX_VERSION: stable
+                NGINX_VERSION: next
 
 secrets:
     nginx_env.yaml: { file: env.yaml }
