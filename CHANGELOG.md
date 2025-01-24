@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.12.23 (2025-01-24)
+
+No changes since the previous release.
+
+Compare with the previous release: [`v3.12.22...v3.12.23`](https://github.com/zerocluster/nginx/compare/v3.12.22...v3.12.23)
+
 ### 3.12.22 (2025-01-24)
 
 Other changes:
