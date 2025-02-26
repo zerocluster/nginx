@@ -1,5 +1,14 @@
 # Changelog
 
+### 3.12.27 (2025-02-26)
+
+Other changes:
+
+- chore: update editorconfig
+- chore: update package dependencies
+
+Compare with the previous release: [`v3.12.26...v3.12.27`](https://github.com/zerocluster/nginx/compare/v3.12.26...v3.12.27)
+
 ### 3.12.26 (2025-02-20)
 
 Other changes:
