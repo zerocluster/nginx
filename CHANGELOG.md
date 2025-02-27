@@ -1,5 +1,13 @@
 # Changelog
 
+### 3.12.33 (2025-02-27)
+
+Other changes:
+
+- chore: fix rpc remote address detection
+
+Compare with the previous release: [`v3.12.32...v3.12.33`](https://github.com/zerocluster/nginx/compare/v3.12.32...v3.12.33)
+
 ### 3.12.32 (2025-02-27)
 
 Other changes:
