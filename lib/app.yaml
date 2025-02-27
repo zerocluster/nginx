@@ -1,23 +1,23 @@
 dependencies:
-    - "@softvisio/core"
+  - "@softvisio/core"
 
 services:
-    server:
-        components:
-            acme: true
-            nginx: true
-            rpc: true
+  server:
+    components:
+      acme: true
+      nginx: true
+      rpc: true
 
 defaultService: server
 
 components:
-    acme:
-        httpEnabled: true
-        useLocalStorage: false
+  acme:
+    httpEnabled: true
+    useLocalStorage: false
 
-    nginx:
-        dockerEnabled: true
-        setRealIpFrom: [local, private, cloudflare, google-cloud-load-balancers]
-        realIpHeader: x-forwarded-for
+  nginx:
+    dockerEnabled: true
+    setRealIpFrom: [local, private, cloudflare, google-cloud-load-balancers]
+    realIpHeader: x-forwarded-for
 
 config: ~
