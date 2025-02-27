@@ -1,5 +1,14 @@
 # Changelog
 
+### 3.12.29 (2025-02-27)
+
+Other changes:
+
+- chore: fix nginx docker
+- chore: update package dependencies
+
+Compare with the previous release: [`v3.12.28...v3.12.29`](https://github.com/zerocluster/nginx/compare/v3.12.28...v3.12.29)
+
 ### 3.12.28 (2025-02-26)
 
 Other changes:
