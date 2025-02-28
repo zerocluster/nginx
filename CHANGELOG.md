@@ -1,5 +1,14 @@
 # Changelog
 
+### 3.12.39 (2025-02-28)
+
+Other changes:
+
+- chore: renname google-cloud subnet
+- chore: update package dependencies
+
+Compare with the previous release: [`v3.12.38...v3.12.39`](https://github.com/zerocluster/nginx/compare/v3.12.38...v3.12.39)
+
 ### 3.12.38 (2025-02-28)
 
 Other changes:
