@@ -1,5 +1,13 @@
 # Changelog
 
+### 3.12.38 (2025-02-28)
+
+Other changes:
+
+- chore: update package dependencies
+
+Compare with the previous release: [`v3.12.37...v3.12.38`](https://github.com/zerocluster/nginx/compare/v3.12.37...v3.12.38)
+
 ### 3.12.37 (2025-02-28)
 
 Other changes:
