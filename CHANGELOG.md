@@ -1,5 +1,13 @@
 # Changelog
 
+### 3.12.42 (2025-03-03)
+
+Other changes:
+
+- chore: update nginx api
+
+Compare with the previous release: [`v3.12.41...v3.12.42`](https://github.com/zerocluster/nginx/compare/v3.12.41...v3.12.42)
+
 ### 3.12.41 (2025-03-01)
 
 Other changes:
