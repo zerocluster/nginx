@@ -1,5 +1,15 @@
 # Changelog
 
+### 3.12.44 (2025-03-08)
+
+Other changes:
+
+- chore: fix shebang
+- chore: update package dependencies
+- chore: update package metadata
+
+Compare with the previous release: [`v3.12.43...v3.12.44`](https://github.com/zerocluster/nginx/compare/v3.12.43...v3.12.44)
+
 ### 3.12.43 (2025-03-04)
 
 Other changes:
