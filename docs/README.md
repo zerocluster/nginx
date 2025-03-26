@@ -4,7 +4,7 @@ Fully automated HTTP load balancer and cache for Docker Swarm.
 
 ## Install
 
-```shell
+```sh
 docker pull ghcr.io/zerocluster/nginx
 ```
 
@@ -12,7 +12,7 @@ docker pull ghcr.io/zerocluster/nginx
 
 Use docker swarm file, provided in this repository.
 
-```shell
+```sh
 # mark node, where load balancer will be deployed
 docker node update --label-add nginx=true <NODE-NAME>
 
@@ -22,7 +22,7 @@ docker stack deploy --with-registry-auth -c docker-stack.yaml nginx
 
 To add some docker swarm service to the load balancer you need to define service labels.
 
-```shell
+```sh
 # add service to the load balancer
 docker service update --label-add nginx.http.server-name=www.example.com <SERVICE-NAME>
 
@@ -32,11 +32,11 @@ docker service update --label-rm nginx.http.server-name <SERVICE-NAME>
 
 ## Debug
 
-```shell
+```sh
 docker run --rm -it --network main -p 80:80 -v /var/local/zerocluster/nginx:/var/local -v /var/run/docker.sock:/var/run/docker.sock ghcr.io/zerocluster/node
 ```
 
-```shell
+```sh
 apt update && apt install -y htop mc nginx-latest && npx update-core
 ```
 
