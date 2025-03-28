@@ -1,5 +1,14 @@
 # Changelog
 
+### 3.12.49 (2025-03-28)
+
+Other changes:
+
+- chore: update markdown code tags
+- chore: update package dependencies
+
+Compare with the previous release: [`v3.12.48...v3.12.49`](https://github.com/zerocluster/nginx/compare/v3.12.48...v3.12.49)
+
 ### 3.12.48 (2025-03-20)
 
 Other changes:
