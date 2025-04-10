@@ -1,5 +1,14 @@
 # Changelog
 
+### 3.12.54 (2025-04-10)
+
+Other changes:
+
+- chore: rename dockerfile
+- chore: update package dependencies
+
+Compare with the previous release: [`v3.12.53...v3.12.54`](https://github.com/zerocluster/nginx/compare/v3.12.53...v3.12.54)
+
 ### 3.12.53 (2025-04-06)
 
 Other changes:
