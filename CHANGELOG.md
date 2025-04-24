@@ -1,5 +1,13 @@
 # Changelog
 
+### 3.12.57 (2025-04-24)
+
+Other changes:
+
+- chore: use latest nginx
+
+Compare with the previous release: [`v3.12.56...v3.12.57`](https://github.com/zerocluster/nginx/compare/v3.12.56...v3.12.57)
+
 ### 3.12.56 (2025-04-23)
 
 Other changes:
