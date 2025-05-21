@@ -10,3 +10,10 @@ docs:
   externalTypes:
     - softvisio-node/core
     - softvisio-node/result
+
+  aliases:
+    /api: https://raw.githubusercontent.com/softvisio-node/core/main/docs/api.md
+
+  app:
+    rpc:
+      url: ws://nginx:81/api
