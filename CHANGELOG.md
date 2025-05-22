@@ -1,5 +1,17 @@
 # Changelog
 
+### v3.12.72 (2025-05-22)
+
+**Other changes:**
+
+- \[PATCH] chore: init docs (👬 zdm)
+
+- \[PATCH] chore: update package dependencies (👬 zdm)
+
+- \[PATCH] chore: update rpc port in docs (👬 zdm)
+
+Compare with the previous release: [`v3.12.71...v3.12.72`](https://github.com/zerocluster/nginx/compare/v3.12.71...v3.12.72)
+
 ### v3.12.71 (2025-05-17)
 
 **Other changes:**
