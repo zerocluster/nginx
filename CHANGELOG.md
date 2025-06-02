@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.12.79 (2025-06-02)
+
+**Other changes:**
+
+- \[PATCH] chore: update package dependencies (👬 zdm)
+
+Compare with the previous release: [v3.12.78](https://github.com/zerocluster/nginx/compare/v3.12.78...v3.12.79)
+
 ### v3.12.78 (2025-06-01)
 
 **Other changes:**
