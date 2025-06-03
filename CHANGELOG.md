@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.12.82 (2025-06-03)
+
+**Fixes:**
+
+- \[PATCH] fix: fix nginx config (👬 zdm)
+
+Compare with the previous release: [v3.12.81](https://github.com/zerocluster/nginx/compare/v3.12.81...v3.12.82)
+
 ### v3.12.81 (2025-06-03)
 
 **Other changes:**
