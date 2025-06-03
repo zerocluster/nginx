@@ -23,4 +23,9 @@ components:
     setRealIpFrom: [local, private, cloudflare, google-cloud]
     realIpHeader: x-forwarded-for
 
+  privateHttpServer:
+    nginx:
+      enbled: true
+      serverNames: [nginx]
+
 config: ~
