@@ -25,7 +25,7 @@ components:
 
   privateHttpServer:
     nginx:
-      enbled: true
+      enbled: false
       serverNames: [nginx]
 
 config: ~
