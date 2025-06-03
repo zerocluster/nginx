@@ -1,5 +1,17 @@
 # Changelog
 
+### v3.12.81 (2025-06-03)
+
+**Other changes:**
+
+- \[PATCH] chore: add app name (👬 zdm)
+
+- \[PATCH] chore: refactor nginx integration (👬 zdm)
+
+- \[PATCH] chore: update package dependencies (👬 zdm)
+
+Compare with the previous release: [v3.12.80](https://github.com/zerocluster/nginx/compare/v3.12.80...v3.12.81)
+
 ### v3.12.80 (2025-06-02)
 
 **Other changes:**
