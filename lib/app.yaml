@@ -15,6 +15,9 @@ components:
     httpEnabled: true
     useLocalStorage: false
 
+  env:
+    name: nginx
+
   nginx:
     dockerEnabled: true
     setRealIpFrom: [local, private, cloudflare, google-cloud]
