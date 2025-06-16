@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.12.96 (2025-06-16)
+
+**Other changes:**
+
+- chore(deps): update package dependencies (● [6077e65](https://github.com/zerocluster/nginx/commit/6077e65); 👬 zdm)
+
+Compare with the previous release: [v3.12.95](https://github.com/zerocluster/nginx/compare/v3.12.95...v3.12.96)
+
 ### v3.12.95 (2025-06-13)
 
 **Other changes:**
