@@ -1,5 +1,19 @@
 # Changelog
 
+### v3.12.103 (2025-06-26)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: fix bash invocation in scripts (● [3429e2e](https://github.com/zerocluster/nginx/commit/3429e2e); 👬 zdm)
+
+- \[PATCH] refactor: fix external bash scripts invocation (● [36fd156](https://github.com/zerocluster/nginx/commit/36fd156); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update package dependencies (● [7305d72](https://github.com/zerocluster/nginx/commit/7305d72); 👬 zdm)
+
+Compare with the previous release: [v3.12.102](https://github.com/zerocluster/nginx/compare/v3.12.102...v3.12.103)
+
 ### v3.12.102 (2025-06-25)
 
 **Other changes:**
