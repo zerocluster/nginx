@@ -1,5 +1,17 @@
 # Changelog
 
+### v3.12.104-alpha.0 (2025-07-02)
+
+**Other changes:**
+
+- build(deps): bump @softvisio/core 7.172.0-alpha.1 (● [387b7c7](https://github.com/zerocluster/nginx/commit/387b7c7); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [8e03b1f](https://github.com/zerocluster/nginx/commit/8e03b1f), [3f944ba](https://github.com/zerocluster/nginx/commit/3f944ba), [2c6d6f1](https://github.com/zerocluster/nginx/commit/2c6d6f1); 👬 zdm)
+
+- chore(deps): update package dependencies (● [ace35cc](https://github.com/zerocluster/nginx/commit/ace35cc); 👬 zdm)
+
+Compare with the previous release: [v3.12.103](https://github.com/zerocluster/nginx/compare/v3.12.103...v3.12.104-alpha.0)
+
 ### v3.12.103 (2025-06-26)
 
 **Code refactoring:**
