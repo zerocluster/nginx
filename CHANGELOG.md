@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.12.107 (2025-07-04)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [b9a9d74](https://github.com/zerocluster/nginx/commit/b9a9d74); 👬 zdm)
+
+Compare with the previous release: [v3.12.106](https://github.com/zerocluster/nginx/compare/v3.12.106...v3.12.107)
+
 ### v3.12.106 (2025-07-04)
 
 **Other changes:**
