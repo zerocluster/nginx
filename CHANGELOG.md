@@ -1,5 +1,15 @@
 # Changelog
 
+### v3.12.108-alpha.0 (2025-07-12)
+
+**Other changes:**
+
+- build(deps): bump dependencies (● [edc5d2d](https://github.com/zerocluster/nginx/commit/edc5d2d); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [517d533](https://github.com/zerocluster/nginx/commit/517d533), [6d87533](https://github.com/zerocluster/nginx/commit/6d87533); 👬 zdm)
+
+Compare with the previous release: [v3.12.107](https://github.com/zerocluster/nginx/compare/v3.12.107...v3.12.108-alpha.0)
+
 ### v3.12.107 (2025-07-04)
 
 **Other changes:**
