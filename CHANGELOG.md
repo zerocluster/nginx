@@ -1,5 +1,19 @@
 # Changelog
 
+### v3.12.114 (2025-07-23)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix editorconfig (● [9594959](https://github.com/zerocluster/nginx/commit/9594959); 👬 zdm)
+
+- \[PATCH] fix: update editorconfig (● [c992b3b](https://github.com/zerocluster/nginx/commit/c992b3b); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [fc3285f](https://github.com/zerocluster/nginx/commit/fc3285f); 👬 zdm)
+
+Compare with the previous release: [v3.12.113](https://github.com/zerocluster/nginx/compare/v3.12.113...v3.12.114)
+
 ### v3.12.113 (2025-07-16)
 
 **Other changes:**
