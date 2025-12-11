@@ -198,7 +198,7 @@ Compare with the previous release: [v3.12.108](https://github.com/zerocluster/ng
 
 **Other changes:**
 
-- build(deps): bump @softvisio/core (● [e1daeaa](https://github.com/zerocluster/nginx/commit/e1daeaa); 👬 zdm)
+- build(deps): bump @c0rejs/core (● [e1daeaa](https://github.com/zerocluster/nginx/commit/e1daeaa); 👬 zdm)
 
 - build(deps): bump dependencies (● [edc5d2d](https://github.com/zerocluster/nginx/commit/edc5d2d); 👬 zdm)
 
@@ -248,9 +248,9 @@ Compare with the previous release: [v3.12.104](https://github.com/zerocluster/ng
 
 **Other changes:**
 
-- build(deps): bump @softvisio/core 7.172.0 (● [833e514](https://github.com/zerocluster/nginx/commit/833e514); 👬 zdm)
+- build(deps): bump @c0rejs/core 7.172.0 (● [833e514](https://github.com/zerocluster/nginx/commit/833e514); 👬 zdm)
 
-- build(deps): bump @softvisio/core 7.172.0-alpha.1 (● [387b7c7](https://github.com/zerocluster/nginx/commit/387b7c7); 👬 zdm)
+- build(deps): bump @c0rejs/core 7.172.0-alpha.1 (● [387b7c7](https://github.com/zerocluster/nginx/commit/387b7c7); 👬 zdm)
 
 - chore(deps): update locked dependencies (● [64119fe](https://github.com/zerocluster/nginx/commit/64119fe), [5028737](https://github.com/zerocluster/nginx/commit/5028737), [5f28b2a](https://github.com/zerocluster/nginx/commit/5f28b2a), [4d83f05](https://github.com/zerocluster/nginx/commit/4d83f05), [8e03b1f](https://github.com/zerocluster/nginx/commit/8e03b1f), [3f944ba](https://github.com/zerocluster/nginx/commit/3f944ba), [2c6d6f1](https://github.com/zerocluster/nginx/commit/2c6d6f1); 👬 zdm)
 
@@ -296,7 +296,7 @@ Compare with the previous release: [v3.12.104-alpha.0](https://github.com/zerocl
 
 **Other changes:**
 
-- build(deps): bump @softvisio/core 7.172.0-alpha.1 (● [387b7c7](https://github.com/zerocluster/nginx/commit/387b7c7); 👬 zdm)
+- build(deps): bump @c0rejs/core 7.172.0-alpha.1 (● [387b7c7](https://github.com/zerocluster/nginx/commit/387b7c7); 👬 zdm)
 
 - chore(deps): update locked dependencies (● [8e03b1f](https://github.com/zerocluster/nginx/commit/8e03b1f), [3f944ba](https://github.com/zerocluster/nginx/commit/3f944ba), [2c6d6f1](https://github.com/zerocluster/nginx/commit/2c6d6f1); 👬 zdm)
 
