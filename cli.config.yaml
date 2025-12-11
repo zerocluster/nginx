@@ -9,11 +9,11 @@ docs:
   location: /docs
 
   externalTypes:
-    - softvisio-node/core
-    - softvisio-node/result
+    - c0rejs/core
+    - c0rejs/result
 
   aliases:
-    /api: https://raw.githubusercontent.com/softvisio-node/core/main/docs/api.md
+    /api: https://raw.githubusercontent.com/c0rejs/core/main/docs/api.md
 
   app:
     rpc:
