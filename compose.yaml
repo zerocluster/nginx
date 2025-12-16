@@ -41,7 +41,7 @@ services:
       args:
         NGINX_VERSION: latest
       secrets:
-        - id=NPM_TOKEN_GITHUB,env=NPM_TOKEN_GITHUB
+        - id=GITHUB_TOKEN,env=GITHUB_TOKEN
 
 secrets:
   nginx_env.yaml: { file: env.yaml }
