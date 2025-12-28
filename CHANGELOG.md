@@ -1,5 +1,23 @@
 # Changelog
 
+### v3.13.0 (2025-12-28)
+
+**New features:**
+
+- \[MINOR] feat: add docker build secrets (● [6e0ec68](https://github.com/zerocluster/nginx/commit/6e0ec68), [f8b704f](https://github.com/zerocluster/nginx/commit/f8b704f); 👬 zdm)
+
+**Bug fixes:**
+
+- \[PATCH] fix: remove NPM_TOKEN_GITHUB (● [0de6eb0](https://github.com/zerocluster/nginx/commit/0de6eb0); 👬 zdm)
+
+**Other changes:**
+
+- build: migrate to c0rejs namespace (● [304ed7e](https://github.com/zerocluster/nginx/commit/304ed7e), [62e32e6](https://github.com/zerocluster/nginx/commit/62e32e6); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [cbf29e6](https://github.com/zerocluster/nginx/commit/cbf29e6), [3b2016a](https://github.com/zerocluster/nginx/commit/3b2016a), [a66a385](https://github.com/zerocluster/nginx/commit/a66a385), [fdf8611](https://github.com/zerocluster/nginx/commit/fdf8611), [8ebbd55](https://github.com/zerocluster/nginx/commit/8ebbd55), [022fa3d](https://github.com/zerocluster/nginx/commit/022fa3d), [c7e6e3c](https://github.com/zerocluster/nginx/commit/c7e6e3c), [2239064](https://github.com/zerocluster/nginx/commit/2239064), [437a382](https://github.com/zerocluster/nginx/commit/437a382), [809454a](https://github.com/zerocluster/nginx/commit/809454a), [7b06d6f](https://github.com/zerocluster/nginx/commit/7b06d6f), [7d20458](https://github.com/zerocluster/nginx/commit/7d20458), [05701ec](https://github.com/zerocluster/nginx/commit/05701ec); 👬 zdm)
+
+Compare with the previous release: [v3.12.131](https://github.com/zerocluster/nginx/compare/v3.12.131...v3.13.0)
+
 ### v3.12.131 (2025-11-12)
 
 **Other changes:**
