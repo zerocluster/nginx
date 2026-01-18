@@ -1,5 +1,15 @@
 # Changelog
 
+### v3.13.2 (2026-01-18)
+
+**Other changes:**
+
+- chore: remove npm @sencha:registry (● [a5b110f](https://github.com/zerocluster/nginx/commit/a5b110f); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [5534266](https://github.com/zerocluster/nginx/commit/5534266), [ba2ae4a](https://github.com/zerocluster/nginx/commit/ba2ae4a), [c5158df](https://github.com/zerocluster/nginx/commit/c5158df); 👬 zdm)
+
+Compare with the previous release: [v3.13.1](https://github.com/zerocluster/nginx/compare/v3.13.1...v3.13.2)
+
 ### v3.13.1 (2026-01-03)
 
 **Other changes:**
