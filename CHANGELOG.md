@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.13.20 (2026-01-30)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [f76fcd2](https://github.com/zerocluster/nginx/commit/f76fcd2); 👬 zdm)
+
+Compare with the previous release: [v3.13.19](https://github.com/zerocluster/nginx/compare/v3.13.19...v3.13.20)
+
 ### v3.13.19 (2026-01-30)
 
 **Other changes:**
