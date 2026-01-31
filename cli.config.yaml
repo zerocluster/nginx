@@ -9,11 +9,11 @@ docs:
   location: /docs
 
   externalTypes:
-    - c0rejs/core
-    - c0rejs/result
+    - corejslib/core
+    - corejslib/result
 
   aliases:
-    /api: https://raw.githubusercontent.com/c0rejs/core/main/docs/api.md
+    /api: https://raw.githubusercontent.com/corejslib/core/main/docs/api.md
 
   app:
     rpc:
