@@ -1,5 +1,15 @@
 # Changelog
 
+### v3.13.21 (2026-01-31)
+
+**Other changes:**
+
+- chore: rename c0rejs namespace (● [645bf30](https://github.com/zerocluster/nginx/commit/645bf30), [b66db2a](https://github.com/zerocluster/nginx/commit/b66db2a); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [17f6cb6](https://github.com/zerocluster/nginx/commit/17f6cb6); 👬 zdm)
+
+Compare with the previous release: [v3.13.20](https://github.com/zerocluster/nginx/compare/v3.13.20...v3.13.21)
+
 ### v3.13.20 (2026-01-30)
 
 **Other changes:**
