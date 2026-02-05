@@ -1,5 +1,15 @@
 # Changelog
 
+### v3.13.22 (2026-02-05)
+
+**Other changes:**
+
+- chore: remove @zdm npm registry (● [25f2fc7](https://github.com/zerocluster/nginx/commit/25f2fc7); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [8604532](https://github.com/zerocluster/nginx/commit/8604532), [03e3c08](https://github.com/zerocluster/nginx/commit/03e3c08), [d7c5f79](https://github.com/zerocluster/nginx/commit/d7c5f79); 👬 zdm)
+
+Compare with the previous release: [v3.13.21](https://github.com/zerocluster/nginx/compare/v3.13.21...v3.13.22)
+
 ### v3.13.21 (2026-01-31)
 
 **Other changes:**
