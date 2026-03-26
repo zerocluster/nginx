@@ -19,7 +19,6 @@ components:
     name: nginx
 
   nginx:
-    dockerEnabled: true
     setRealIpFrom: [local, private, cloudflare, google-cloud]
     realIpHeader: x-forwarded-for
 
