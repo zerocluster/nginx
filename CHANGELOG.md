@@ -1,5 +1,17 @@
 # Changelog
 
+### v3.13.40 (2026-03-27)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: remove app nginx docker support (● [14ffed8](https://github.com/zerocluster/nginx/commit/14ffed8); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [4f58177](https://github.com/zerocluster/nginx/commit/4f58177), [a3c90e2](https://github.com/zerocluster/nginx/commit/a3c90e2); 👬 zdm)
+
+Compare with the previous release: [v3.13.39](https://github.com/zerocluster/nginx/compare/v3.13.39...v3.13.40)
+
 ### v3.13.39 (2026-03-25)
 
 **Other changes:**
