@@ -1,5 +1,17 @@
 # Changelog
 
+### v3.13.52 (2026-04-09)
+
+**Bug fixes:**
+
+- \[PATCH] fix: open 443/udp for quic (● [f7bff94](https://github.com/zerocluster/nginx/commit/f7bff94); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [90bb9c8](https://github.com/zerocluster/nginx/commit/90bb9c8); 👬 zdm)
+
+Compare with the previous release: [v3.13.51](https://github.com/zerocluster/nginx/compare/v3.13.51...v3.13.52)
+
 ### v3.13.51 (2026-04-08)
 
 **Other changes:**
