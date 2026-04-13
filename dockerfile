@@ -6,7 +6,8 @@ RUN --mount=type=secret,id=GITHUB_TOKEN,env=GITHUB_TOKEN <<EOF
 #!/usr/bin/env bash
 
 apt-get update
-apt-get install -y nginx-$NGINX_VERSION
+apt-get install -y \
+    nginx-$NGINX_VERSION
 
 # install dependencies
 NODE_ENV=production npm install-clean
