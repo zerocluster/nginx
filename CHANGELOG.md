@@ -1,5 +1,17 @@
 # Changelog
 
+### v3.13.53 (2026-04-14)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: update dockerfile (● [9e44d91](https://github.com/zerocluster/nginx/commit/9e44d91), [a21c714](https://github.com/zerocluster/nginx/commit/a21c714); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [cb3c225](https://github.com/zerocluster/nginx/commit/cb3c225), [d5e0e8e](https://github.com/zerocluster/nginx/commit/d5e0e8e), [88c7c1a](https://github.com/zerocluster/nginx/commit/88c7c1a), [1e26557](https://github.com/zerocluster/nginx/commit/1e26557), [584f11b](https://github.com/zerocluster/nginx/commit/584f11b), [fcbea29](https://github.com/zerocluster/nginx/commit/fcbea29); 👬 zdm)
+
+Compare with the previous release: [v3.13.52](https://github.com/zerocluster/nginx/compare/v3.13.52...v3.13.53)
+
 ### v3.13.52 (2026-04-09)
 
 **Bug fixes:**
