@@ -1,5 +1,17 @@
 # Changelog
 
+### v3.13.58 (2026-04-16)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix dockerfile errors handler (● [36b0bff](https://github.com/zerocluster/nginx/commit/36b0bff); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [8f58a28](https://github.com/zerocluster/nginx/commit/8f58a28); 👬 zdm)
+
+Compare with the previous release: [v3.13.57](https://github.com/zerocluster/nginx/compare/v3.13.57...v3.13.58)
+
 ### v3.13.57 (2026-04-15)
 
 **Other changes:**
