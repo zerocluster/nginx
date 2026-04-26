@@ -1,5 +1,23 @@
 # Changelog
 
+### v3.13.60 (2026-04-26)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix sh error trap (● [a47133e](https://github.com/zerocluster/nginx/commit/a47133e); 👬 zdm)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: update .editorconfig (● [9b6aa06](https://github.com/zerocluster/nginx/commit/9b6aa06); 👬 zdm)
+
+- \[PATCH] refactor: update sh error trap (● [1af727c](https://github.com/zerocluster/nginx/commit/1af727c); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [5ad1490](https://github.com/zerocluster/nginx/commit/5ad1490), [d9ea143](https://github.com/zerocluster/nginx/commit/d9ea143), [c96796e](https://github.com/zerocluster/nginx/commit/c96796e), [03d4c11](https://github.com/zerocluster/nginx/commit/03d4c11), [29f0abd](https://github.com/zerocluster/nginx/commit/29f0abd), [02f3255](https://github.com/zerocluster/nginx/commit/02f3255), [f3c7ead](https://github.com/zerocluster/nginx/commit/f3c7ead); 👬 zdm)
+
+Compare with the previous release: [v3.13.59...v3.13.60](https://github.com/zerocluster/nginx/compare/v3.13.59...v3.13.60)
+
 ### v3.13.59 (2026-04-20)
 
 **Other changes:**
