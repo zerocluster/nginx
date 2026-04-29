@@ -1,6 +1,5 @@
 # NOTE: deploy
 # docker node update --label-add nginx=true `docker node inspect self --format "{{ .ID }}"`
-# docker service update --label-add nginx.http.server-name=www.example.com <SERVICE-NAME>
 
 services:
   nginx:
