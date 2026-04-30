@@ -1,5 +1,17 @@
 # Changelog
 
+### v3.13.62 (2026-04-30)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix compose file (● [71dee4d](https://github.com/zerocluster/nginx/commit/71dee4d); 👬 zdm)
+
+**Other changes:**
+
+- docs: update docs (● [bf3ab17](https://github.com/zerocluster/nginx/commit/bf3ab17); 👬 zdm)
+
+Compare with the previous release: [v3.13.61...v3.13.62](https://github.com/zerocluster/nginx/compare/v3.13.61...v3.13.62)
+
 ### v3.13.61 (2026-04-29)
 
 **Other changes:**
