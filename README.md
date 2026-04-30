@@ -24,16 +24,6 @@ docker node update --label-add nginx=true <NODE-NAME>
 docker stack deploy --with-registry-auth -c docker-stack.yaml nginx
 ```
 
-To add some docker swarm service to the load balancer you need to define service labels.
-
-```sh
-# add service to the load balancer
-docker service update --label-add nginx.http.server-name=www.example.com <SERVICE-NAME>
-
-# remove service from the load balancer
-docker service update --label-rm nginx.http.server-name <SERVICE-NAME>
-```
-
 ## Debug
 
 ```sh
@@ -44,61 +34,7 @@ docker run --rm -it --network main -p 80:80 -v /var/local/zerocluster/nginx:/var
 apt update && apt install -y htop mc nginx-latest && npx update-core
 ```
 
-## Docker swarm labels
-
-### nginx.http.server-name
-
-- Type: {string}
-- Default: `""`
-
-<https://nginx.org/en/docs/http/server_names.html>.
-
-<https://nginx.org/en/docs/http/ngx_http_core_module.html#server_name>.
-
-Sets names of a virtual server. If no server names are provided service will be ignored or removed, if was added previously.
-
-### nginx.http.max-body-size
-
-- Type: {string}
-- Default: `"10m"`
-
-<https://nginx.org/en/docs/http/ngx_http_core_module.html#client_max_body_size>.
-
-Sets the maximum allowed size of the client request body. If the size in a request exceeds the configured value, the 413 (Request Entity Too Large) error is returned to the client. Please be aware that browsers cannot correctly display this error. Setting size to 0 disables checking of client request body size.
-
-### nginx.http.cache.enabled
-
-- Type: {string}
-- Default: `"true"`
-
-Enable HTTP cache.
-
-### nginx.http.cache.max-size
-
-- Type: {string}
-- Default: `"10g"`
-
-<https://nginx.org/en/docs/http/ngx_http_proxy_module.html#proxy_cache_path>.
-
-Maximum cache size. When the size is exceeded, it removes the least recently used data.
-
-### nginx.http.cache.inactive
-
-- Type: {string}
-- Default: `"1w"`
-
-<https://nginx.org/en/docs/http/ngx_http_proxy_module.html#proxy_cache_path>.
-
-Cached data that are not accessed during the time specified by the inactive parameter get removed from the cache regardless of their freshness.
-
-### nginx.stream.port
-
-- Type: {integer}
-- Default: `null`
-
-Stream port.
-
-### Configuration measurement units
+## Configuration measurement units
 
 <https://nginx.org/en/docs/syntax.html>.
 
