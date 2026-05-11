@@ -1,5 +1,17 @@
 # Changelog
 
+### v3.13.63 (2026-05-11)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: rename cli.config.yaml to scli.config.yaml (● [c86fc00](https://github.com/zerocluster/nginx/commit/c86fc00); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [580cb12](https://github.com/zerocluster/nginx/commit/580cb12), [ecf1a42](https://github.com/zerocluster/nginx/commit/ecf1a42), [bf8cd5d](https://github.com/zerocluster/nginx/commit/bf8cd5d), [3aa3e1e](https://github.com/zerocluster/nginx/commit/3aa3e1e), [379d49c](https://github.com/zerocluster/nginx/commit/379d49c), [76efc83](https://github.com/zerocluster/nginx/commit/76efc83), [50afaea](https://github.com/zerocluster/nginx/commit/50afaea), [69b3e46](https://github.com/zerocluster/nginx/commit/69b3e46), [59de554](https://github.com/zerocluster/nginx/commit/59de554), [64bec6c](https://github.com/zerocluster/nginx/commit/64bec6c), [3b7db8c](https://github.com/zerocluster/nginx/commit/3b7db8c), [2373ea9](https://github.com/zerocluster/nginx/commit/2373ea9), [9d3ebff](https://github.com/zerocluster/nginx/commit/9d3ebff), [41603d7](https://github.com/zerocluster/nginx/commit/41603d7); 👬 zdm)
+
+Compare with the previous release: [v3.13.62...v3.13.63](https://github.com/zerocluster/nginx/compare/v3.13.62...v3.13.63)
+
 ### v3.13.62 (2026-04-30)
 
 **Bug fixes:**
