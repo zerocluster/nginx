@@ -2,13 +2,13 @@ dependencies:
   - "@corejslib/core"
 
 services:
-  server:
+  main:
     components:
       acme: true
       nginx: true
       rpc: true
 
-defaultService: server
+defaultService: main
 
 components:
   acme:
