@@ -28,8 +28,16 @@ services:
       - { published: 80, target: 80, mode: host }
       - { published: 443, target: 443, mode: host }
       - { published: 443, target: 443, mode: host, protocol: udp }
-      # - { published: 8085, target: 8085, mode: host }
+
+      # postgresql
       # - { published: 5432, target: 5432, mode: host }
+
+      # qbittorrent
+      # - { published: 6881, target: 6881, mode: host }
+      # - { published: 6881, target: 6881, mode: host, protocol: udp }
+
+      # proxy
+      # - { published: 8085, target: 8085, mode: host }
 
     volumes:
       - { type: tmpfs, target: /dev/shm, tmpfs: { size: 1073741824 } }
