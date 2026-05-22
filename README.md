@@ -28,7 +28,12 @@ docker stack deploy --with-registry-auth -c docker-stack.yaml nginx
 ## Debug
 
 ```sh
-docker run --rm -it --network main -p 80:80 -v /var/local/zerocluster/nginx:/var/local -v /var/run/docker.sock:/var/run/docker.sock ghcr.io/zerocluster/node
+docker run \
+    --rm -it \
+    --network main \
+    -p 80:80 \
+    -v /var/local/zerocluster/nginx:/var/local \
+    ghcr.io/zerocluster/node
 ```
 
 ```sh
@@ -39,7 +44,7 @@ apt update && apt install -y htop mc nginx-latest && npx update-core
 
 <https://nginx.org/en/docs/syntax.html>.
 
-Sizes can be specified in bytes, kilobytes (suffixes `"k"` and `"K"`) or megabytes (suffixes `"m"` and `"M"`), for example, “1024”, “8k”, “1m”.
+Sizes can be specified in bytes, kilobytes (suffixes `"k"` and `"K"`) or megabytes (suffixes `"m"` and `"M"`), for example, "1024", "8k", "1m".
 
 Offsets may be also specified in gigabytes using `"g"` or `"G"` suffixes.
 
