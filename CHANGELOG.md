@@ -1,5 +1,25 @@
 # Changelog
 
+### v3.13.68 (2026-05-29)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: remove docker /var/run/docker.sock (● [48d5841](https://github.com/zerocluster/nginx/commit/48d5841); 👬 zdm)
+
+- \[PATCH] refactor: rename app service to main (● [f5636fe](https://github.com/zerocluster/nginx/commit/f5636fe); 👬 zdm)
+
+**Other changes:**
+
+- build: remove registries from .npmrc (● [3e82437](https://github.com/zerocluster/nginx/commit/3e82437); 👬 zdm)
+
+- chore: update nginx config (● [f920410](https://github.com/zerocluster/nginx/commit/f920410); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [78dca2f](https://github.com/zerocluster/nginx/commit/78dca2f), [eba1697](https://github.com/zerocluster/nginx/commit/eba1697), [d88e268](https://github.com/zerocluster/nginx/commit/d88e268), [9a3835a](https://github.com/zerocluster/nginx/commit/9a3835a), [fe57657](https://github.com/zerocluster/nginx/commit/fe57657), [c54d56d](https://github.com/zerocluster/nginx/commit/c54d56d); 👬 zdm)
+
+- docs: update (● [d2f4188](https://github.com/zerocluster/nginx/commit/d2f4188); 👬 zdm)
+
+Compare with the previous release: [v3.13.67...v3.13.68](https://github.com/zerocluster/nginx/compare/v3.13.67...v3.13.68)
+
 ### v3.13.67 (2026-05-19)
 
 **Other changes:**
