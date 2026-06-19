@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.13.69 (2026-06-19)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [5090028](https://github.com/zerocluster/nginx/commit/5090028), [7324f16](https://github.com/zerocluster/nginx/commit/7324f16), [a4b511a](https://github.com/zerocluster/nginx/commit/a4b511a), [5f10269](https://github.com/zerocluster/nginx/commit/5f10269), [f6b490e](https://github.com/zerocluster/nginx/commit/f6b490e), [133dcae](https://github.com/zerocluster/nginx/commit/133dcae), [a2e3793](https://github.com/zerocluster/nginx/commit/a2e3793), [f9bd2a4](https://github.com/zerocluster/nginx/commit/f9bd2a4), [ce04e34](https://github.com/zerocluster/nginx/commit/ce04e34), [5ea1977](https://github.com/zerocluster/nginx/commit/5ea1977), [c740bb6](https://github.com/zerocluster/nginx/commit/c740bb6), [ab0331e](https://github.com/zerocluster/nginx/commit/ab0331e), [8d311d1](https://github.com/zerocluster/nginx/commit/8d311d1), [0a9b90f](https://github.com/zerocluster/nginx/commit/0a9b90f), [ca6e62a](https://github.com/zerocluster/nginx/commit/ca6e62a), [b38b4b8](https://github.com/zerocluster/nginx/commit/b38b4b8), [fe0cf4a](https://github.com/zerocluster/nginx/commit/fe0cf4a), [9d72fcd](https://github.com/zerocluster/nginx/commit/9d72fcd); 👬 zdm)
+
+Compare with the previous release: [v3.13.68...v3.13.69](https://github.com/zerocluster/nginx/compare/v3.13.68...v3.13.69)
+
 ### v3.13.68 (2026-05-29)
 
 **Code refactoring:**
