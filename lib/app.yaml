@@ -19,6 +19,7 @@ components:
     name: nginx
 
   nginx:
+    quicEnabled: true
     setRealIpFrom: [local, private, cloudflare, google-cloud]
     realIpHeader: x-forwarded-for
 
