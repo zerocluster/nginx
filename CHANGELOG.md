@@ -1,5 +1,19 @@
 # Changelog
 
+### v3.13.73 (2026-06-24)
+
+**Bug fixes:**
+
+- \[PATCH] fix: add quicEnabled option (● [ebe0124](https://github.com/zerocluster/nginx/commit/ebe0124); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [53da6eb](https://github.com/zerocluster/nginx/commit/53da6eb); 👬 zdm)
+
+- docs: update docs (● [e8c4ec7](https://github.com/zerocluster/nginx/commit/e8c4ec7); 👬 zdm)
+
+Compare with the previous release: [v3.13.72...v3.13.73](https://github.com/zerocluster/nginx/compare/v3.13.72...v3.13.73)
+
 ### v3.13.72 (2026-06-23)
 
 **Other changes:**
