@@ -680,7 +680,7 @@ Compare with the previous release: [v3.13.0](https://github.com/zerocluster/ngin
 
 **Bug fixes:**
 
-- \[PATCH] fix: remove NPM_TOKEN_GITHUB (● [0de6eb0](https://github.com/zerocluster/nginx/commit/0de6eb0); 👬 zdm)
+- \[PATCH] fix: remove NPM\_TOKEN\_GITHUB (● [0de6eb0](https://github.com/zerocluster/nginx/commit/0de6eb0); 👬 zdm)
 
 **Other changes:**
 
@@ -2046,7 +2046,7 @@ Fixes:
 Fixes:
 
 - fix: deps
-- fix: docker depends_on
+- fix: docker depends\_on
 
 ### 3.11.36 (2024-07-30)
 
@@ -2967,7 +2967,7 @@ Fixes:
 
 Fixes:
 
-- fix: docker autobuild_tags renamed to auto_tags
+- fix: docker autobuild\_tags renamed to auto\_tags
 
 ### 2.5.16 (2021-09-07)
 
@@ -3303,7 +3303,7 @@ Changed:
 - .sh ext removed from docker wrapper
 - moved common dockerfile instructions to the base image
 - project location in docker renamed to /var/local/dist
-- docker CONTAINER_NAME var added
+- docker CONTAINER\_NAME var added
 
 ### 0.2.0 (2020-07-18)
 
