@@ -1,5 +1,17 @@
 # Changelog
 
+### v3.13.76 (2026-07-03)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix md \_ escape (● [6515067](https://github.com/zerocluster/nginx/commit/6515067); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [fb7f6e6](https://github.com/zerocluster/nginx/commit/fb7f6e6), [56174cc](https://github.com/zerocluster/nginx/commit/56174cc), [57cde90](https://github.com/zerocluster/nginx/commit/57cde90), [e4cbf74](https://github.com/zerocluster/nginx/commit/e4cbf74), [e326b38](https://github.com/zerocluster/nginx/commit/e326b38), [bc4333e](https://github.com/zerocluster/nginx/commit/bc4333e), [1fe3533](https://github.com/zerocluster/nginx/commit/1fe3533), [b20fff9](https://github.com/zerocluster/nginx/commit/b20fff9), [b5f4e32](https://github.com/zerocluster/nginx/commit/b5f4e32), [b6ab2f6](https://github.com/zerocluster/nginx/commit/b6ab2f6), [7a7109d](https://github.com/zerocluster/nginx/commit/7a7109d); 👬 zdm)
+
+Compare with the previous release: [v3.13.75...v3.13.76](https://github.com/zerocluster/nginx/compare/v3.13.75...v3.13.76)
+
 ### v3.13.75 (2026-06-25)
 
 **Other changes:**
