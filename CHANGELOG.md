@@ -1,5 +1,15 @@
 # Changelog
 
+### v3.13.81 (2026-07-06)
+
+**Other changes:**
+
+- build(deps): bunp @corejslib/core@^8.0.0 (● [087ec63](https://github.com/zerocluster/nginx/commit/087ec63); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [ecd90f7](https://github.com/zerocluster/nginx/commit/ecd90f7); 👬 zdm)
+
+Compare with the previous release: [v3.13.80...v3.13.81](https://github.com/zerocluster/nginx/compare/v3.13.80...v3.13.81)
+
 ### v3.13.80 (2026-07-05)
 
 **Other changes:**
