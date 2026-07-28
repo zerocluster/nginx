@@ -1,6 +1,6 @@
 {
     "name": "@zerocluster/nginx",
-    "version": "3.13.88",
+    "version": "3.13.89",
     "private": true,
     "description": "Nginx service",
     "keywords": [
