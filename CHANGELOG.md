@@ -1,5 +1,15 @@
 # Changelog
 
+### v3.13.97 (2026-08-02)
+
+**Other changes:**
+
+- chore: rename softvisio to corejslib (● [020eccc](https://github.com/zerocluster/nginx/commit/020eccc); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [031475e](https://github.com/zerocluster/nginx/commit/031475e); 👬 zdm)
+
+Compare with the previous release: [v3.13.96...v3.13.97](https://github.com/zerocluster/nginx/compare/v3.13.96...v3.13.97)
+
 ### v3.13.96 (2026-08-01)
 
 **Other changes:**
