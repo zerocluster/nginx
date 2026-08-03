@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.13.98 (2026-08-03)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [eabc2ec](https://github.com/zerocluster/nginx/commit/eabc2ec); 👬 zdm)
+
+Compare with the previous release: [v3.13.97...v3.13.98](https://github.com/zerocluster/nginx/compare/v3.13.97...v3.13.98)
+
 ### v3.13.97 (2026-08-02)
 
 **Other changes:**
