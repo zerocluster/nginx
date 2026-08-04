@@ -1,5 +1,15 @@
 # Changelog
 
+### v3.13.101 (2026-08-04)
+
+**Other changes:**
+
+- chore: rename ccli to zcli (● [bbdf17a](https://github.com/zerocluster/nginx/commit/bbdf17a), [6f0f87b](https://github.com/zerocluster/nginx/commit/6f0f87b), [d3846b2](https://github.com/zerocluster/nginx/commit/d3846b2); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [b4f0c38](https://github.com/zerocluster/nginx/commit/b4f0c38); 👬 zdm)
+
+Compare with the previous release: [v3.13.100...v3.13.101](https://github.com/zerocluster/nginx/compare/v3.13.100...v3.13.101)
+
 ### v3.13.100 (2026-08-04)
 
 **Other changes:**
