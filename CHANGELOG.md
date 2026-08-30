@@ -1,5 +1,17 @@
 # Changelog
 
+### v3.13.109 (2026-08-30)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix shebang (● [86fc47e](https://github.com/zerocluster/nginx/commit/86fc47e); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [99f73ad](https://github.com/zerocluster/nginx/commit/99f73ad), [b954cbd](https://github.com/zerocluster/nginx/commit/b954cbd), [318ee55](https://github.com/zerocluster/nginx/commit/318ee55), [5b1f42d](https://github.com/zerocluster/nginx/commit/5b1f42d), [9afd6a6](https://github.com/zerocluster/nginx/commit/9afd6a6); 👬 zdm)
+
+Compare with the previous release: [v3.13.108...v3.13.109](https://github.com/zerocluster/nginx/compare/v3.13.108...v3.13.109)
+
 ### v3.13.108 (2026-08-27)
 
 **Other changes:**
