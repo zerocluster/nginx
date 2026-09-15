@@ -1,5 +1,15 @@
 # Changelog
 
+### v3.13.118 (2026-09-15)
+
+**Other changes:**
+
+- chore: migrate to @corejslib/app (● [e55ac6c](https://github.com/zerocluster/nginx/commit/e55ac6c); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [df43f86](https://github.com/zerocluster/nginx/commit/df43f86); 👬 zdm)
+
+Compare with the previous release: [v3.13.117...v3.13.118](https://github.com/zerocluster/nginx/compare/v3.13.117...v3.13.118)
+
 ### v3.13.117 (2026-09-15)
 
 **Other changes:**
