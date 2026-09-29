@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.13.127 (2026-09-29)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [45ef216](https://github.com/zerocluster/nginx/commit/45ef216), [69613ff](https://github.com/zerocluster/nginx/commit/69613ff); 👬 zdm)
+
+Compare with the previous release: [v3.13.126...v3.13.127](https://github.com/zerocluster/nginx/compare/v3.13.126...v3.13.127)
+
 ### v3.13.126 (2026-09-26)
 
 **Other changes:**
@@ -1106,7 +1114,7 @@ Compare with the previous release: [v3.13.0](https://github.com/zerocluster/ngin
 
 **Bug fixes:**
 
-- \[PATCH] fix: remove NPM\_TOKEN\_GITHUB (● [0de6eb0](https://github.com/zerocluster/nginx/commit/0de6eb0); 👬 zdm)
+- \[PATCH] fix: remove NPM_TOKEN_GITHUB (● [0de6eb0](https://github.com/zerocluster/nginx/commit/0de6eb0); 👬 zdm)
 
 **Other changes:**
 
@@ -2472,7 +2480,7 @@ Fixes:
 Fixes:
 
 - fix: deps
-- fix: docker depends\_on
+- fix: docker depends_on
 
 ### 3.11.36 (2024-07-30)
 
@@ -3393,7 +3401,7 @@ Fixes:
 
 Fixes:
 
-- fix: docker autobuild\_tags renamed to auto\_tags
+- fix: docker autobuild_tags renamed to auto_tags
 
 ### 2.5.16 (2021-09-07)
 
@@ -3729,7 +3737,7 @@ Changed:
 - .sh ext removed from docker wrapper
 - moved common dockerfile instructions to the base image
 - project location in docker renamed to /var/local/dist
-- docker CONTAINER\_NAME var added
+- docker CONTAINER_NAME var added
 
 ### 0.2.0 (2020-07-18)
 
