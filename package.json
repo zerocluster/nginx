@@ -28,6 +28,8 @@
         "start": "node bin/main.js run --mode=development"
     },
     "dependencies": {
-        "@corejslib/app": "^1.0.0"
+        "@corejslib/app": "^1.0.0",
+        "@corejslib/geoip-asn": "^1.0.73",
+        "@corejslib/geoip-city": "^1.0.73"
     }
 }
