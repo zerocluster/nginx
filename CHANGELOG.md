@@ -1,5 +1,15 @@
 # Changelog
 
+### v3.13.144 (2026-10-14)
+
+**Other changes:**
+
+- build(deps): add GeoIP ASN and city packages (● [016ab2c](https://github.com/zerocluster/nginx/commit/016ab2c); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [3e64e81](https://github.com/zerocluster/nginx/commit/3e64e81), [5c5498a](https://github.com/zerocluster/nginx/commit/5c5498a), [9c14710](https://github.com/zerocluster/nginx/commit/9c14710), [91132ca](https://github.com/zerocluster/nginx/commit/91132ca), [4280978](https://github.com/zerocluster/nginx/commit/4280978); 👬 zdm)
+
+Compare with the previous release: [v3.13.143...v3.13.144](https://github.com/zerocluster/nginx/compare/v3.13.143...v3.13.144)
+
 ### v3.13.143 (2026-10-12)
 
 **Other changes:**
