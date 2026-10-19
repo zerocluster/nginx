@@ -1,5 +1,15 @@
 # Changelog
 
+### v3.15.1 (2026-10-19)
+
+**Other changes:**
+
+- chore: stop configuring nginx server name (● [1822b11](https://github.com/zerocluster/nginx/commit/1822b11); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [746a0a4](https://github.com/zerocluster/nginx/commit/746a0a4); 👬 zdm)
+
+Compare with the previous release: [v3.15.0...v3.15.1](https://github.com/zerocluster/nginx/compare/v3.15.0...v3.15.1)
+
 ### v3.15.0 (2026-10-19)
 
 **New features:**
