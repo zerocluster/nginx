@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.14.0 (2026-10-19)
+
+**New features:**
+
+- \[MINOR] feat: remove default nginx server name (● [e514f64](https://github.com/zerocluster/nginx/commit/e514f64); 👬 zdm)
+
+Compare with the previous release: [v3.13.148...v3.14.0](https://github.com/zerocluster/nginx/compare/v3.13.148...v3.14.0)
+
 ### v3.13.148 (2026-10-19)
 
 **Other changes:**
