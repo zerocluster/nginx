@@ -26,6 +26,6 @@ components:
   privateHttpServer:
     nginx:
       enabled: false
-      # serverNames: [nginx]
+      serverNames: [nginx-a]
 
 config: ~
