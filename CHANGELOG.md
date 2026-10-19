@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.15.0 (2026-10-19)
+
+**New features:**
+
+- \[MINOR] feat: configure nginx server name as nginx-a (● [4526bea](https://github.com/zerocluster/nginx/commit/4526bea); 👬 zdm)
+
+Compare with the previous release: [v3.14.0...v3.15.0](https://github.com/zerocluster/nginx/compare/v3.14.0...v3.15.0)
+
 ### v3.14.0 (2026-10-19)
 
 **New features:**
