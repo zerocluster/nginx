@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.15.8 (2026-10-24)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [b11f5b8](https://github.com/zerocluster/nginx/commit/b11f5b8); 👬 zdm)
+
+Compare with the previous release: [v3.15.7...v3.15.8](https://github.com/zerocluster/nginx/compare/v3.15.7...v3.15.8)
+
 ### v3.15.7 (2026-10-24)
 
 **Other changes:**
