@@ -15,6 +15,9 @@ components:
     httpEnabled: true
     useLocalStorage: false
 
+  dbh:
+    enabled: true
+
   env:
     name: nginx
 
