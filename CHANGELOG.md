@@ -1,5 +1,17 @@
 # Changelog
 
+### v3.16.0 (2026-10-25)
+
+**New features:**
+
+- \[MINOR] feat: enable dbh component (● [98aba60](https://github.com/zerocluster/nginx/commit/98aba60); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [e253662](https://github.com/zerocluster/nginx/commit/e253662); 👬 zdm)
+
+Compare with the previous release: [v3.15.8...v3.16.0](https://github.com/zerocluster/nginx/compare/v3.15.8...v3.16.0)
+
 ### v3.15.8 (2026-10-24)
 
 **Other changes:**
