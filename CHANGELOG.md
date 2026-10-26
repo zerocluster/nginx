@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.16.2 (2026-10-26)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [f760f4a](https://github.com/zerocluster/nginx/commit/f760f4a); 👬 zdm)
+
+Compare with the previous release: [v3.16.1...v3.16.2](https://github.com/zerocluster/nginx/compare/v3.16.1...v3.16.2)
+
 ### v3.16.1 (2026-10-25)
 
 **Other changes:**
