@@ -30,14 +30,15 @@ docker stack deploy --with-registry-auth -c docker-stack.yaml nginx
 ```sh
 docker run \
     --rm -it \
-    --network main \
-    -p 80:80 \
+    --network devel_network \
+    -p 8080:80 \
+    -p 8081:81 \
     -v /var/local/zerocluster/nginx:/var/local \
     ghcr.io/zerocluster/node
 ```
 
 ```sh
-apt update && apt install -y htop mc nginx-latest && npx update-core
+apt update && apt install -y htop mc nginx-latest
 ```
 
 ## Configuration measurement units
