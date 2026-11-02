@@ -1,5 +1,19 @@
 # Changelog
 
+### v3.16.11 (2026-11-02)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [452f0c4](https://github.com/zerocluster/nginx/commit/452f0c4), [14ec60e](https://github.com/zerocluster/nginx/commit/14ec60e); 👬 zdm)
+
+- docs: update development container instructions (● [98c4ec3](https://github.com/zerocluster/nginx/commit/98c4ec3); 👬 zdm)
+
+    Use the development network and expose ports 8080 and 8081; remove the `npx update-core` command.
+
+- docs: update docs (● [cebbf65](https://github.com/zerocluster/nginx/commit/cebbf65); 👬 zdm)
+
+Compare with the previous release: [v3.16.10...v3.16.11](https://github.com/zerocluster/nginx/compare/v3.16.10...v3.16.11)
+
 ### v3.16.10 (2026-11-01)
 
 **Other changes:**
