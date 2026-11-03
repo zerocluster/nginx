@@ -1,5 +1,15 @@
 # Changelog
 
+### v3.16.13 (2026-11-03)
+
+**Other changes:**
+
+- chore: remove acme local storage setting (● [09fe393](https://github.com/zerocluster/nginx/commit/09fe393); 👬 zdm)
+
+- chore(deps): update locked dependencies (● [32aed5a](https://github.com/zerocluster/nginx/commit/32aed5a); 👬 zdm)
+
+Compare with the previous release: [v3.16.12...v3.16.13](https://github.com/zerocluster/nginx/compare/v3.16.12...v3.16.13)
+
 ### v3.16.12 (2026-11-02)
 
 **Other changes:**
