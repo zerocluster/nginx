@@ -13,7 +13,6 @@ defaultService: main
 components:
   acme:
     httpEnabled: true
-    useLocalStorage: false
 
   dbh:
     enabled: true
