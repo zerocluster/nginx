@@ -4,7 +4,6 @@
 services:
   nginx:
     image: ghcr.io/zerocluster/nginx
-    depends_on: [postgresql]
     init: true
     stop_grace_period: 5m
 
