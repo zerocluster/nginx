@@ -1,5 +1,17 @@
 # Changelog
 
+### v3.16.20 (2026-11-08)
+
+**Bug fixes:**
+
+- \[PATCH] fix: remove depends_on from compose file (● [3b082d2](https://github.com/zerocluster/nginx/commit/3b082d2); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [8e306e6](https://github.com/zerocluster/nginx/commit/8e306e6); 👬 zdm)
+
+Compare with the previous release: [v3.16.19...v3.16.20](https://github.com/zerocluster/nginx/compare/v3.16.19...v3.16.20)
+
 ### v3.16.19 (2026-11-06)
 
 **Other changes:**
