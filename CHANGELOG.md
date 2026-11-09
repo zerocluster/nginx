@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.16.21 (2026-11-09)
+
+**Other changes:**
+
+- chore(deps): update corejslib packages (● [90fece9](https://github.com/zerocluster/nginx/commit/90fece9); 👬 zdm)
+
+Compare with the previous release: [v3.16.20...v3.16.21](https://github.com/zerocluster/nginx/compare/v3.16.20...v3.16.21)
+
 ### v3.16.20 (2026-11-08)
 
 **Bug fixes:**
