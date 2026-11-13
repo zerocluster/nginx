@@ -1,5 +1,19 @@
 # Changelog
 
+### v3.16.27 (2026-11-13)
+
+**Bug fixes:**
+
+- \[PATCH] fix: correct app RPC websocket URL (● [68e7f70](https://github.com/zerocluster/nginx/commit/68e7f70); 👬 zdm)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [988fe02](https://github.com/zerocluster/nginx/commit/988fe02), [004901b](https://github.com/zerocluster/nginx/commit/004901b); 👬 zdm)
+
+- docs: update docs (● [ff26598](https://github.com/zerocluster/nginx/commit/ff26598); 👬 zdm)
+
+Compare with the previous release: [v3.16.26...v3.16.27](https://github.com/zerocluster/nginx/compare/v3.16.26...v3.16.27)
+
 ### v3.16.26 (2026-11-12)
 
 **Other changes:**
