@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.16.28 (2026-11-13)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [afbb201](https://github.com/zerocluster/nginx/commit/afbb201); 👬 zdm)
+
+Compare with the previous release: [v3.16.27...v3.16.28](https://github.com/zerocluster/nginx/compare/v3.16.27...v3.16.28)
+
 ### v3.16.27 (2026-11-13)
 
 **Bug fixes:**
