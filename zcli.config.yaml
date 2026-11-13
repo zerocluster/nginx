@@ -17,4 +17,4 @@ docs:
 
   app:
     rpc:
-      url: ws://nginx:81/api
+      url: ws://nginx:81/
