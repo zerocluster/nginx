@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.16.29 (2026-11-13)
+
+**Other changes:**
+
+- chore(deps): update locked dependencies (● [a36fcda](https://github.com/zerocluster/nginx/commit/a36fcda); 👬 zdm)
+
+Compare with the previous release: [v3.16.28...v3.16.29](https://github.com/zerocluster/nginx/compare/v3.16.28...v3.16.29)
+
 ### v3.16.28 (2026-11-13)
 
 **Other changes:**
