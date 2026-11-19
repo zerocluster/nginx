@@ -6,6 +6,10 @@ services:
     image: ghcr.io/zerocluster/nginx
     init: true
     stop_grace_period: 5m
+    cap_add:
+      - BPF
+      - PERFMON
+      - NET_ADMIN
 
     deploy:
       endpoint_mode: dnsrr
