@@ -30,6 +30,7 @@ docker run \
     -p 81:81 \
     -p 5432:5432 \
     -v /var/local/zerocluster/nginx:/var/local \
+    --hostname nginx \
     --entrypoint bash \
     ghcr.io/zerocluster/nginx
 ```
