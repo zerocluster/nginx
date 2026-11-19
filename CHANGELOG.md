@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.16.43 (2026-11-19)
+
+**Other changes:**
+
+- build: grant required container capabilities (● [63f86b7](https://github.com/zerocluster/nginx/commit/63f86b7); 👬 zdm)
+
+Compare with the previous release: [v3.16.42...v3.16.43](https://github.com/zerocluster/nginx/compare/v3.16.42...v3.16.43)
+
 ### v3.16.42 (2026-11-19)
 
 **Other changes:**
