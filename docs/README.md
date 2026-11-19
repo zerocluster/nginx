@@ -26,10 +26,12 @@ docker stack deploy --with-registry-auth -c docker-stack.yaml nginx
 docker run \
     --rm -it \
     --network devel_network \
-    -p 8080:80 \
-    -p 8081:81 \
+    -p 80:80 \
+    -p 81:81 \
+    -p 5432:5432 \
     -v /var/local/zerocluster/nginx:/var/local \
-    ghcr.io/zerocluster/node
+    --entrypoint bash \
+    ghcr.io/zerocluster/nginx
 ```
 
 ```sh
