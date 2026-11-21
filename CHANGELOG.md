@@ -1,5 +1,17 @@
 # Changelog
 
+### v3.16.46 (2026-11-21)
+
+**Code refactoring**:
+
+- \[PATCH] refactor: remove unused app configuration fields (● [bf6537a](https://github.com/zerocluster/nginx/commit/bf6537a); 👬 zdm)
+
+**Other changes**:
+
+- chore(deps): update locked dependencies (● [8691dfa](https://github.com/zerocluster/nginx/commit/8691dfa); 👬 zdm)
+
+Compare with the previous release: [v3.16.45...v3.16.46](https://github.com/zerocluster/nginx/compare/v3.16.45...v3.16.46)
+
 ### v3.16.45 (2026-11-21)
 
 **Other changes**:
