@@ -29,5 +29,3 @@ components:
     nginx:
       enabled: false
       # serverNames: [nginx]
-
-config: ~
