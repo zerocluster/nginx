@@ -1,5 +1,17 @@
 # Changelog
 
+### v3.16.52 (2026-11-24)
+
+**Bug fixes**:
+
+- \[PATCH] fix: rename app run command to start (● [dd659a8](https://github.com/zerocluster/nginx/commit/dd659a8); 👬 zdm)
+
+**Other changes**:
+
+- chore(deps): update locked dependencies (● [19dc925](https://github.com/zerocluster/nginx/commit/19dc925), [736b18d](https://github.com/zerocluster/nginx/commit/736b18d); 👬 zdm)
+
+Compare with the previous release: [v3.16.51...v3.16.52](https://github.com/zerocluster/nginx/compare/v3.16.51...v3.16.52)
+
 ### v3.16.51 (2026-11-22)
 
 **Other changes**:
