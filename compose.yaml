@@ -20,7 +20,7 @@ services:
           - "node.role == manager"
           - "node.labels.nginx == true"
 
-    command: run
+    command: start
 
     secrets:
       - { source: nginx_env.yaml, target: /var/local/package/env.yaml }
