@@ -1,5 +1,17 @@
 # Changelog
 
+### v3.16.53 (2026-11-25)
+
+**Bug fixes**:
+
+- \[PATCH] fix: use start command in development script (● [9a50e4e](https://github.com/zerocluster/nginx/commit/9a50e4e); 👬 zdm)
+
+**Other changes**:
+
+- chore(deps): update locked dependencies (● [41b3670](https://github.com/zerocluster/nginx/commit/41b3670); 👬 zdm)
+
+Compare with the previous release: [v3.16.52...v3.16.53](https://github.com/zerocluster/nginx/compare/v3.16.52...v3.16.53)
+
 ### v3.16.52 (2026-11-24)
 
 **Bug fixes**:
